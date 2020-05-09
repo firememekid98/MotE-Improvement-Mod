@@ -14,12 +14,12 @@ NMilitary = {
 	MOVEMENT_RETREAT_BONUS = 0.25,
 	BASE_FRONTAGE = 50,				-- how many can be in one flank.
 
-	MORALE_COLLAPSE_THRESHOLD = 0.20,				-- Threshold before unit runs away
+	MORALE_COLLAPSE_THRESHOLD = 0.25,				-- Threshold before unit runs away
 	TROOP_KILL_FACTOR = 0.22,						-- Affects the death rate in combats(higher gives bigger losses)
 	MORALELOSS_FACTOR = 3.0,						-- Affects the morale loss rate in combats(higher gives bigger losses)
 	MIN_COMBAT_DAYS = 10,							-- Minimum number of days in combat
 	NUMBER_OF_RETREAT_DAYS = 4,						-- Number of days before you retreat successfully
-	DAYS_TO_WALK_IN_SHAME = 10,						-- Maximum number of days a unit will be unreachable after succefull retreat.
+	DAYS_TO_WALK_IN_SHAME = 21,						-- Maximum number of days a unit will be unreachable after succefull retreat.
 
 	BATTLE_ROUNDSPERHOUR = 1,						--
     PONTONEER_MOVECOEFF_RIVER = 0.50,    			-- 50% discount when crossing river
