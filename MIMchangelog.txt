@@ -2,7 +2,7 @@ MIM changelog v1.0
 
 core gameplay changes
 	- kill factor changed to 0.22, from 0.25
-	- reduced naval morale from british ideas
+	- reduced naval morale from naval dominance
 
 snowballing
 	- 5% extra manpower and tax on cores
