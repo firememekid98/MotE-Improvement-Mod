@@ -1,0 +1,562 @@
+# NCP2
+#
+# All global modifiers are here.  They are applied from certain game-features.
+#
+# You can't add new entries but you can change effects.
+
+
+#these names can NOT be removed or changes, as the code uses them....
+
+##########################################################################
+# Difficulty Modifiers
+##########################################################################
+
+very_easy_player = {
+	global_manpower_modifier = 0.5
+	infantry_cost = -0.5
+	guard_cost = -0.5
+	militia_cost = -0.5
+	light_infantry_cost = -0.5
+	cavalry_cost = -0.5
+	artillery_cost = -0.5
+	big_ship_cost = -0.5
+	light_ship_cost = -0.5
+	galley_cost = -0.5
+	build_cost = -0.5
+	global_revolt_risk = -3
+	war_exhaustion = -1.0
+	defensiveness = 0.5
+	
+	idea_points = 10
+
+}
+
+easy_player = {
+	global_manpower_modifier = 0.25
+	infantry_cost = -0.25
+	guard_cost = -0.25
+	militia_cost = -0.25
+	light_infantry_cost = -0.25
+	cavalry_cost = -0.25
+	artillery_cost = -0.25
+	big_ship_cost = -0.25
+	light_ship_cost = -0.25
+	galley_cost = -0.25
+	build_cost = -0.25
+	global_revolt_risk = -1
+	war_exhaustion = -0.5
+
+	idea_points = 5
+
+}
+
+hard_player = {
+	land_morale = -0.1
+	naval_morale = -0.1
+}
+
+very_hard_player = {
+	land_morale = -0.25
+	naval_morale = -0.25
+}
+
+very_easy_ai = {
+	land_morale = -0.25
+	naval_morale = -0.25
+	global_manpower_modifier = -0.1
+	defensiveness = -0.25
+}
+
+easy_ai = {
+	land_morale = -0.1
+	naval_morale = -0.1
+	global_manpower_modifier = -0.05
+}
+
+hard_ai = {
+	land_morale = 0.25
+	naval_morale = 0.25
+	global_tax_modifier = 0.25
+	max_war_exhaustion = -3
+	war_exhaustion = -0.5
+	global_manpower_modifier = 0.25
+	defensiveness = 0.5
+	
+	idea_points = 10
+
+}
+
+very_hard_ai = {
+	land_morale = 0.5
+	naval_morale = 0.5
+	global_tax_modifier = 0.5
+	max_war_exhaustion = -6
+	war_exhaustion = -1
+	global_manpower_modifier = 0.5
+	defensiveness = 1.0
+	
+	idea_points = 20
+
+}
+
+
+##########################################################################
+# Provincial Static Modifiers
+##########################################################################
+
+city = {
+	fort_level = 1
+	supply_limit = 3000	
+	regiment_recruit_speed = -0.25
+}
+
+
+coastal = {
+	supply_limit = 3000
+}
+
+non_coastal = {
+}
+
+coastal_sea = {
+}
+
+
+
+
+sea_zone = {
+	max_attrition = 5			#Maximum Attrition is 5
+}
+
+land_province = {
+	max_attrition = 5			#Maximum Attrition is 5
+	garrison_growth = 0.05			#10% base growth
+}
+
+
+#Winter levels
+mild_winter = {
+	local_attrition = 1				#Attrition weight is 200% ( ie +100% )
+	max_attrition = 2			#Maximum Attrition is increased by 2
+	local_movement_speed = -0.1 
+	localarmy_reinforce_speed = -0.1
+}
+
+normal_winter = {
+	local_attrition = 2				#Attrition weight is 300%
+	max_attrition = 5			#Maximum Attrition is increased by 5
+	local_movement_speed = -0.3
+	localarmy_reinforce_speed = -0.3
+}
+
+severe_winter = {
+	local_attrition = 4				#Attrition weight is 500%
+	max_attrition = 10			#Maximum Attrition is increased by 10
+	local_movement_speed = -0.5
+	localarmy_reinforce_speed = -0.5 
+}
+
+#TRANSPORT NETWORK LEVEL
+transport_none = {
+	local_movement_speed = -0.1
+}
+transport_track = {
+	local_movement_speed = 0.0
+	supply_limit = 1000
+}
+transport_road = {
+	local_movement_speed = 0.1
+	supply_limit = 1500
+}
+transport_major_road = {
+	local_movement_speed = 0.25
+	supply_limit = 2500
+}
+
+#DEVELOPMENT LEVEL
+dev_wild = {
+	supply_limit = -1000
+	local_movement_speed = -0.1
+	local_manpower_modifier = -0.1
+}
+dev_cleared = {
+	supply_limit = 0
+	local_tax_modifier = 0.10
+	local_manpower_modifier = 0.10
+}
+dev_normal = {
+	supply_limit = 500
+	local_tax_modifier = 0.20
+	local_manpower_modifier = 0.20
+}
+dev_civ = {
+	supply_limit = 1000
+	local_movement_speed = 0.1
+	local_tax_modifier = 0.25
+	local_manpower_modifier = 0.25
+}
+
+fort_level = {
+	local_revolt_risk = -1	 
+	local_defensiveness = 0.20
+}
+
+harbor_level = {
+	ship_recruit_speed = -0.1
+	local_ship_cost = -0.05
+	localnavy_reinforce_speed = 1.00
+}
+
+depot_level = {
+	supply_limit = 2500
+	regiment_recruit_speed = -0.1
+	local_regiment_cost = -0.05
+	local_manpower_modifier = 0.05	
+	localarmy_reinforce_speed = 0.15 
+	supply_production = 20
+}
+
+
+
+no_adjacent_controlled = {
+	max_attrition = 3			#Maximum Attrition is increased by 3
+}
+
+
+blockaded = {
+	local_tax_modifier = -0.90
+	regiment_recruit_speed = 0.33
+	ship_recruit_speed = 0.33
+	localnavy_reinforce_speed = -0.5
+}
+
+provincial_tax_income = {
+	supply_limit = 100
+	regiment_recruit_speed = -0.01			#1% shorter time to build troops for each cash.
+	ship_recruit_speed = -0.01		
+	supply_production = 5
+}
+
+capital_city = {
+	local_manpower_modifier = 0.1		#10% bonus on manpower.
+	tax_income = 2						#Extra income bonus
+	garrison_growth = 0.1				#10% bonus on garrison growth
+}
+
+
+
+
+core = {
+	local_tax_modifier = 0.05
+	local_manpower_modifier = 0.05
+}
+
+
+same_culture_group = {
+	local_tax_modifier = -0.1		#10% penalty if same culture group but nothing else. Not applied if the controller is the Union Tag of the culture group, or has culture_group_union set.
+	local_manpower_modifier = -0.1
+}
+
+non_accepted_culture = {
+	local_tax_modifier = -0.3			#30% penalty if different culture
+	local_manpower_modifier = -0.5		#30% penalty on manpower.
+	local_revolt_risk = 1				#1% revolt risk!
+}
+
+
+
+
+occupied = {
+	local_revolt_risk = 1			#1% revolt risk for each year occupied.
+	garrison_growth = -0.03			#1% penalty on growth if occupied.
+	supply_production = -5			# -50 produced supply when occupied
+}
+
+under_siege = {
+
+}
+
+
+scorched_earth = {
+	max_attrition = 10					# Maximum Attrition is increased by 10
+	local_tax_modifier = -0.50			# 75% less tax income.
+	supply_limit = -2000
+	local_revolt_risk = 1
+	minimum_revolt_risk = 1
+}
+
+
+revolt_risk = {
+	local_tax_modifier = -0.05
+	regiment_recruit_speed = 0.1		#10% longer time to build troops for each rr
+	ship_recruit_speed = 0.1
+}
+
+nationalism = {
+	local_revolt_risk = 0.4			#0.2% for each year revolt risk!
+	minimum_revolt_risk = 0.4		#0.2% for each year revolt risk!
+	local_manpower_modifier = -0.02
+}
+
+manpower = {
+	garrison_growth = 0.001			#0.1% increase from manpower.
+}
+
+friendly_regiments = {
+	local_revolt_risk = -1.0			#-1% for each friendly regiment in the province.
+	minimum_revolt_risk = -0.5			#same here
+}
+
+
+
+# Core province of the owner's culture group, while fighting a defensive war
+national_defense = {
+	local_revolt_risk = -5
+}
+
+##########################################################################
+# Global Static Modifiers
+##########################################################################
+
+base_values = {
+	range = 400
+	idea_points = 15
+	land_morale = 1
+	naval_morale = 1
+	diplomats = 1
+}
+
+
+cancelled_loan = {
+}
+
+bank_loan = {
+}
+
+
+bankruptcy = {
+	global_revolt_risk = 1			#revolt risk increased by 1 during bankruptcy effects.
+	interest = 10
+	land_morale = -2
+	naval_morale = -2
+	reinforce_speed = -0.25				# Slower reinforce
+	land_maintenance_modifier = -0.20	# Lower maintenance
+	naval_maintenance_modifier = -0.20	# Lower maintenance
+}
+
+war = {
+	max_war_exhaustion = 20				#base max at war.
+}
+
+peace = {
+	max_war_exhaustion = 20			# base max at peace.
+	war_exhaustion = -0.5			# -6 per year
+}
+
+war_exhaustion = { # per pt of WE, we get that:
+	global_revolt_risk = 0.5		#increase revolt risk 
+	land_morale = -0.05
+	naval_morale = -0.05	
+	global_manpower_modifier = -0.02
+	global_tax_modifier = -0.01
+	reinforce_speed = -0.05				# Slower reinforce	
+}
+
+monarch_adm = {
+	global_tax_modifier = 0.02
+	global_manpower_modifier = 0.02
+	global_supply_production = 0.02
+}	
+
+monarch_dip = {
+	warscore_cost_reduction = -0.01
+	reinforce_speed = 0.01
+	blockade_efficiency = 0.05
+}
+
+monarch_mil = {
+	land_morale = 0.1
+	naval_morale = 0.1
+	start_experience = 2
+	war_exhaustion = -0.02
+}
+
+total_occupation = {
+	war_exhaustion = 0.01				#increased by war exhaustion.
+}
+
+total_blockaded = {
+	war_exhaustion = 0.2				#increased by war exhaustion.  
+}
+
+land_dominant = {
+	global_manpower_modifier = 0.1
+	land_morale = 0.25
+	war_exhaustion = -0.01
+}
+
+naval_dominant = {
+	global_tax_modifier = 0.1
+	naval_morale = 0.10
+	blockade_efficiency = 0.10
+	war_exhaustion = -0.01
+}
+
+##########################################################################
+# Combat Static Modifiers
+##########################################################################
+
+# Crossings
+river_crossing = {
+	
+	guard_attack = -0.20	
+	infantry_attack = -0.10
+	militia_attack = -0.10
+	light_infantry_attack = -0.10
+
+	cavalry_attack = -0.2
+
+	artillery_attack = -0.30
+
+	cavalry_defense = -0.20
+	
+	land_morale = -0.10
+}
+
+river_crossing_pontoneers = {	
+
+	guard_attack = -0.10	
+	infantry_attack = -0.05
+	militia_attack = -0.05
+	light_infantry_attack = -0.05
+
+	cavalry_attack = -0.15
+
+	artillery_attack = -0.20
+
+	cavalry_defense = -0.10
+	
+	land_morale = -0.05
+
+}
+
+strait_crossing = {
+
+	guard_attack = -0.20	
+	infantry_attack = -0.20
+	militia_attack = -0.25
+	light_infantry_attack = -0.15
+
+	cavalry_attack = -0.50
+
+	artillery_attack = -0.20
+
+	cavalry_defense = -0.20
+
+	land_morale = -0.20
+}
+
+AttackerModifiers_fort = {
+	cavalry_attack = -0.5
+	cavalry_defense = -0.5
+	
+	cavalry_initiative = 4
+	guard_initiative = 3
+	infantry_initiative = 2
+	militia_initiative = 2
+	light_infantry_initiative = 1
+	
+	attack = -0.25
+	artillery_attack = 0.25
+}
+
+DefenderModifiers_fort = {
+	defense = 6.0
+	attack = 3.0
+	infantry_initiative = -2
+	militia_initiative = -2
+	light_infantry_initiative = -2
+	guard_initiative = -2
+	artillery_initiative = -2
+}
+
+AttackerModifiers_breach = {
+	attack = -0.25
+	artillery_attack = 0.25
+	cavalry_attack = -0.5
+	cavalry_defense = -0.3
+	cavalry_initiative = 4
+	guard_initiative = 3
+	infantry_initiative = 2
+	militia_initiative = 2
+	light_infantry_initiative = 1
+}
+
+DefenderModifiers_breach = {
+	defense = 3.0
+	attack = 2.0
+	infantry_initiative = -2
+	militia_initiative = -2
+	light_infantry_initiative = -2
+	guard_initiative = -2
+	artillery_initiative = -2
+}
+
+AttackerModifiers_forest = {
+	cavalry_attack = -0.5
+	artillery_attack = -0.25
+	light_infantry_defense = 0.25
+}
+
+DefenderModifiers_forest = {
+	cavalry_attack = -0.5
+	artillery_attack = -0.25
+	light_infantry_attack = 0.5
+	light_infantry_defense = 0.25
+}
+
+AttackerModifiers_hills = {
+	cavalry_attack = -0.5
+	light_infantry_defense = 0.25
+}
+
+DefenderModifiers_hills = {
+	cavalry_attack = -0.5
+	light_infantry_attack = 0.25
+	light_infantry_defense = 0.25
+}
+
+AttackerModifiers_woods = {
+	cavalry_attack = -0.5
+	artillery_attack = -0.25
+	light_infantry_defense = 0.25
+}
+
+DefenderModifiers_woods = {
+	cavalry_attack = -0.5
+	artillery_attack = -0.25
+	light_infantry_attack = 0.5
+	light_infantry_defense = 0.25
+}
+
+AttackerModifiers_mountain = {
+	light_infantry_defense = 0.5
+	cavalry_attack = -0.75
+}
+
+DefenderModifiers_mountain = {
+	light_infantry_attack = 0.25
+	light_infantry_defense = 0.5
+	cavalry_attack = -0.75
+}
+
+AttackerModifiers_impassable_mountains = {
+	light_infantry_defense = 0.5
+	cavalry_attack = -0.75
+}
+
+DefenderModifiers_impassable_mountains = {
+	light_infantry_attack = 0.25
+	light_infantry_defense = 0.5
+	cavalry_attack = -0.75
+}
