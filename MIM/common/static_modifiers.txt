@@ -391,14 +391,11 @@ total_blockaded = {
 land_dominant = {
 	global_manpower_modifier = 0.1
 	land_morale = 0.25
-	war_exhaustion = -0.01
 }
 
 naval_dominant = {
 	global_tax_modifier = 0.1
-	naval_morale = 0.10
-	blockade_efficiency = 0.10
-	war_exhaustion = -0.01
+	naval_morale = 0.25
 }
 
 ##########################################################################
