@@ -395,7 +395,8 @@ land_dominant = {
 
 naval_dominant = {
 	global_tax_modifier = 0.1
-	naval_morale = 0.25
+	naval_morale = 0.10
+	blockade_efficiency = 0.10
 }
 
 ##########################################################################
