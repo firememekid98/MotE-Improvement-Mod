@@ -1,30 +1,20 @@
 MIM changelog v1.0
 
 core gameplay changes
+	- kill factor changed to 0.22, from 0.25
+	- reduced naval morale from british ideas
 
-	- reduced speed of battles
-		- kill factor changed to 0.22, from 0.25
-		- units break at 0.20 morale, from 0.25
-	- successful retreat grace lasts 10 days, from 21
-	- war exhaustion reduces tax income, slightly less effect on manpower
-	- slight war exhaustion decay of -0.01 monthly from being land or naval dominant
-	- land dominance increases manpower instead of tax
-	- naval dominance increases blockade efficiency
-	- reduced naval morale bonus from naval dominance
-	- reduced weight from cavalry to 2.0 from 2.5
-	- provinces have +1 revolt risk from scorched earth
+snowballing
 	- 5% extra manpower and tax on cores
 	- increased manpower and tax penalty from wrong culture
 	- reduced years of nationalism to 10 from 30
 	- increased penalty from nationalism
-	- removed manpower penalty from revolutionary empire government
-	- added diplomat penalty to revolutonary empire government
 	
 graphical changes
-
 	- fixed russia flag
 	- fixed tunisia flag
-	
-bugfixes
 
+government changes
+	- removed manpower penalty from revolutionary empire government
+	- added diplomat penalty to revolutonary empire government
 	- fixed code typo for despotic monarchy government modifier
