@@ -16,7 +16,7 @@ graphical changes
 	- changed austria flag
 
 sound
-	- battles sound less shitty
+	- replaced battle sounds
 
 government changes
 	- removed manpower penalty from revolutionary empire government
