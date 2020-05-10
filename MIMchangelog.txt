@@ -13,6 +13,7 @@ snowballing
 graphical changes
 	- fixed russia flag
 	- fixed tunisia flag
+	- changed austria flag
 
 sound
 	- battles sound less shitty
