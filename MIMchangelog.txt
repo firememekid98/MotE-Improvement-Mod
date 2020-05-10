@@ -16,5 +16,4 @@ graphical changes
 
 government changes
 	- removed manpower penalty from revolutionary empire government
-	- added diplomat penalty to revolutonary empire government
 	- fixed code typo for despotic monarchy government modifier
