@@ -5,10 +5,10 @@ core gameplay changes
 	- reduced naval morale from naval dominance
 
 snowballing
-	- 5% extra manpower and tax on cores
 	- increased manpower and tax penalty from wrong culture
 	- reduced years of nationalism to 10 from 30
 	- increased penalty from nationalism
+	- 5% extra manpower and tax on cores
 	
 graphical changes
 	- fixed russia flag
