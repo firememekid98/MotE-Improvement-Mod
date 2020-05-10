@@ -14,6 +14,9 @@ graphical changes
 	- fixed russia flag
 	- fixed tunisia flag
 
+sound
+	- battles sound less shitty
+
 government changes
 	- removed manpower penalty from revolutionary empire government
 	- fixed code typo for despotic monarchy government modifier
