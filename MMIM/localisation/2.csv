@@ -1,0 +1,7 @@
+CODE;ENGLISH;FRENCH;GERMAN;POLSKI;SPANISH;ITALIAN;SWEDISH;CZECH;HUNGARIAN;DUTCH;PORTUGESE;RUSSIAN;FINNISH;x
+FLANK_SORT_TIP;Sort flank after brigade type.;;Flanke nach Truppenart sortieren.;;;;;;;;;;;x
+FLANK_SWAP_UNIT_POST;Swap positions;;Positionen tauschen;;;;;;;;;;;x
+COUNTRY_RELEASE;$WHO$ will cede all core provinces of $WHAT$.;;$WHO$ tritt alle Kernprovinzen von $WHAT$ ab.;;;;;;;;;;;x
+MANPOWER_IRO;You have a manpower of §Y$CURRENT$§W\nCurrently you gain §Y$MONTHLY$§W each month and your maximum manpower is §Y$MAX$§! ( $YEARS$ years ).\nTo fully reinforce your armies, you need §Y$NEED$§W men, and §Y$USED$§W will reach the armies each day.;;Ihr besitzt eine Mannstärke von §Y$CURRENT$§W\nMomentan erhaltet Ihr einen Zuwachs von §Y$MONTHLY$§W pro Monat und die maximale Mannstärke beträgt §Y$MAX$§! ( $YEARS$ Jahre ).\nUm Eure Armeen vollständig zu verstärken, benötigt Ihr §Y$NEED$§W Männer und §;;;;;;;;;;;x
+NO_NAVAL_TARGET;Searching for target;;Zielsuche;;;;;;;;;;;x
+HAS_TRAVELLED;This leader haven't had enough time to travel to this unit. He has a possible travelling time of §Y$DAYS$§! days from $PROV$.\nLeaders will travel automatically when not assigned to any forces.;;Dieser Anführer hatte nicht genug Zeit, um zu dieser Einheit zu reisen. Seine mögliche Reisezeit beträgt von $PROV$ aus §Y$DAYS$§! Tage.\nAnführer reisen automatisch, sofern sie nicht anderen Streitkräften zugeordnet sind.;;;;;;;;;;;x

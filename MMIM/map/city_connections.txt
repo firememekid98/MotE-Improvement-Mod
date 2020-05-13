@@ -1,0 +1,1818 @@
+province_group={
+	city_province=3
+	province_list={ 2 7 1 6 }
+}
+province_group={
+	city_province=12
+	province_list={ 10 11 15 5 }
+}
+province_group={
+	city_province=17
+	province_list={ 13 9 4 8 }
+}
+province_group={
+	city_province=19
+	province_list={ 16 18 14 }
+}
+province_group={
+	city_province=27
+	province_list={ 26 30 21 22 25 29 20 24 23 }
+}
+province_group={
+	city_province=32
+	province_list={ 28 31 35 }
+}
+province_group={
+	city_province=37
+	province_list={ 34 36 44 33 }
+}
+province_group={
+	city_province=39
+	province_list={ 40 41 }
+}
+province_group={
+	city_province=45
+	province_list={ 38 42 }
+}
+province_group={
+	city_province=46
+	province_list={ 43 49 }
+}
+province_group={
+	city_province=51
+	province_list={ 47 52 }
+}
+province_group={
+	city_province=53
+	province_list={ 48 }
+}
+province_group={
+	city_province=55
+	province_list={ 61 54 60 }
+}
+province_group={
+	city_province=56
+	province_list={ 57 50 }
+}
+province_group={
+	city_province=62
+	province_list={ 59 63 }
+}
+province_group={
+	city_province=67
+	province_list={ 64 65 68 }
+}
+province_group={
+	city_province=69
+	province_list={ 58 66 }
+}
+province_group={
+	city_province=71
+	province_list={ 70 }
+}
+province_group={
+	city_province=74
+	province_list={ 84 82 73 }
+}
+province_group={
+	city_province=75
+	province_list={ 76 }
+}
+province_group={
+	city_province=78
+	province_list={ 77 }
+}
+province_group={
+	city_province=81
+	province_list={ 72 79 }
+}
+province_group={
+	city_province=83
+	province_list={ 80 }
+}
+province_group={
+	city_province=86
+	province_list={ 85 }
+}
+province_group={
+	city_province=91
+	province_list={ 89 87 }
+}
+province_group={
+	city_province=92
+	province_list={ 90 93 88 }
+}
+province_group={
+	city_province=98
+	province_list={ 96 99 100 }
+}
+province_group={
+	city_province=103
+	province_list={ 102 104 101 }
+}
+province_group={
+	city_province=112
+	province_list={ 109 110 105 }
+}
+province_group={
+	city_province=113
+	province_list={ 94 95 97 }
+}
+province_group={
+	city_province=114
+	province_list={ 111 155 106 }
+}
+province_group={
+	city_province=115
+	province_list={ 116 118 156 }
+}
+province_group={
+	city_province=119
+	province_list={ 117 120 176 177 }
+}
+province_group={
+	city_province=121
+	province_list={ 108 107 }
+}
+province_group={
+	city_province=122
+	province_list={ 123 125 126 }
+}
+province_group={
+	city_province=127
+	province_list={ 124 128 184 }
+}
+province_group={
+	city_province=129
+}
+province_group={
+	city_province=130
+	province_list={ 131 146 }
+}
+province_group={
+	city_province=133
+	province_list={ 132 147 }
+}
+province_group={
+	city_province=136
+	province_list={ 135 140 145 }
+}
+province_group={
+	city_province=137
+	province_list={ 134 138 139 }
+}
+province_group={
+	city_province=142
+	province_list={ 141 144 }
+}
+province_group={
+	city_province=150
+	province_list={ 148 149 153 154 }
+}
+province_group={
+	city_province=152
+	province_list={ 151 158 }
+}
+province_group={
+	city_province=161
+	province_list={ 159 160 198 }
+}
+province_group={
+	city_province=162
+	province_list={ 163 166 172 }
+}
+province_group={
+	city_province=164
+	province_list={ 143 165 167 168 }
+}
+province_group={
+	city_province=170
+	province_list={ 169 171 157 }
+}
+province_group={
+	city_province=173
+	province_list={ 174 175 }
+}
+province_group={
+	city_province=180
+	province_list={ 178 179 181 }
+}
+province_group={
+	city_province=186
+	province_list={ 183 185 187 }
+}
+province_group={
+	city_province=191
+	province_list={ 182 190 }
+}
+province_group={
+	city_province=193
+	province_list={ 189 192 }
+}
+province_group={
+	city_province=195
+	province_list={ 194 188 }
+}
+province_group={
+	city_province=196
+}
+province_group={
+	city_province=197
+}
+province_group={
+	city_province=199
+}
+province_group={
+	city_province=201
+	province_list={ 200 203 }
+}
+province_group={
+	city_province=204
+	province_list={ 202 205 216 }
+}
+province_group={
+	city_province=207
+	province_list={ 212 213 214 }
+}
+province_group={
+	city_province=209
+	province_list={ 208 }
+}
+province_group={
+	city_province=211
+	province_list={ 210 246 }
+}
+province_group={
+	city_province=215
+	province_list={ 206 }
+}
+province_group={
+	city_province=221
+	province_list={ 218 }
+}
+province_group={
+	city_province=224
+	province_list={ 223 }
+}
+province_group={
+	city_province=225
+	province_list={ 290 }
+}
+province_group={
+	city_province=226
+	province_list={ 228 }
+}
+province_group={
+	city_province=227
+	province_list={ 220 222 }
+}
+province_group={
+	city_province=229
+	province_list={ 219 220 }
+}
+province_group={
+	city_province=233
+	province_list={ 230 235 }
+}
+province_group={
+	city_province=239
+	province_list={ 234 237 242 }
+}
+province_group={
+	city_province=243
+	province_list={ 217 236 }
+}
+province_group={
+	city_province=245
+	province_list={ 244 247 }
+}
+province_group={
+	city_province=251
+	province_list={ 248 259 }
+}
+province_group={
+	city_province=253
+	province_list={ 252 254 }
+}
+province_group={
+	city_province=255
+}
+province_group={
+	city_province=260
+	province_list={ 249 250 }
+}
+province_group={
+	city_province=261
+	province_list={ 256 257 258 }
+}
+province_group={
+	city_province=263
+	province_list={ 262 264 }
+}
+province_group={
+	city_province=265
+	province_list={ 266 268 }
+}
+province_group={
+	city_province=269
+	province_list={ 267 270 }
+}
+province_group={
+	city_province=271
+	province_list={ 240 241 }
+}
+province_group={
+	city_province=274
+	province_list={ 270 273 275 }
+}
+province_group={
+	city_province=277
+	province_list={ 276 279 }
+}
+province_group={
+	city_province=282
+	province_list={ 272 281 }
+}
+province_group={
+	city_province=284
+	province_list={ 232 238 280 }
+}
+province_group={
+	city_province=287
+	province_list={ 285 }
+}
+province_group={
+	city_province=289
+	province_list={ 231 286 }
+}
+province_group={
+	city_province=292
+	province_list={ 294 }
+}
+province_group={
+	city_province=293
+	province_list={ 296 }
+}
+province_group={
+	city_province=295
+	province_list={ 297 }
+}
+province_group={
+	city_province=298
+	province_list={ 300 }
+}
+province_group={
+	city_province=299
+	province_list={ 291 302 }
+}
+province_group={
+	city_province=301
+	province_list={ 302 }
+}
+province_group={
+	city_province=303
+	province_list={ 304 }
+}
+province_group={
+	city_province=305
+}
+province_group={
+	city_province=306
+	province_list={ 310 }
+}
+province_group={
+	city_province=307
+	province_list={ 309 }
+}
+province_group={
+	city_province=311
+	province_list={ 310 }
+}
+province_group={
+	city_province=313
+	province_list={ 312 }
+}
+province_group={
+	city_province=314
+	province_list={ 413 }
+}
+province_group={
+	city_province=315
+	province_list={ 312 }
+}
+province_group={
+	city_province=317
+	province_list={ 316 415 }
+}
+province_group={
+	city_province=319
+	province_list={ 308 318 }
+}
+province_group={
+	city_province=320
+	province_list={ 288 }
+}
+province_group={
+	city_province=322
+	province_list={ 321 }
+}
+province_group={
+	city_province=323
+	province_list={ 283 }
+}
+province_group={
+	city_province=325
+	province_list={ 324 }
+}
+province_group={
+	city_province=326
+	province_list={ 278 }
+}
+province_group={
+	city_province=327
+	province_list={ 328 363 }
+}
+province_group={
+	city_province=331
+	province_list={ 329 330 332 334 335 }
+}
+province_group={
+	city_province=338
+	province_list={ 336 337 333 }
+}
+province_group={
+	city_province=340
+	province_list={ 347 }
+}
+province_group={
+	city_province=344
+	province_list={ 341 342 408 411 }
+}
+province_group={
+	city_province=345
+	province_list={ 339 343 }
+}
+province_group={
+	city_province=348
+	province_list={ 351 640 645 }
+}
+province_group={
+	city_province=349
+	province_list={ 346 }
+}
+province_group={
+	city_province=350
+}
+province_group={
+	city_province=352
+	province_list={ 353 }
+}
+province_group={
+	city_province=355
+	province_list={ 354 663 }
+}
+province_group={
+	city_province=356
+	province_list={ 358 }
+}
+province_group={
+	city_province=359
+	province_list={ 366 369 }
+}
+province_group={
+	city_province=360
+	province_list={ 357 361 }
+}
+province_group={
+	city_province=362
+	province_list={ 364 365 }
+}
+province_group={
+	city_province=370
+	province_list={ 367 368 }
+}
+province_group={
+	city_province=375
+	province_list={ 371 372 373 }
+}
+province_group={
+	city_province=376
+	province_list={ 377 379 382 384 383 }
+}
+province_group={
+	city_province=380
+	province_list={ 374 381 378 }
+}
+province_group={
+	city_province=387
+	province_list={ 385 386 }
+}
+province_group={
+	city_province=389
+	province_list={ 388 392 }
+}
+province_group={
+	city_province=390
+	province_list={ 391 393 }
+}
+province_group={
+	city_province=394
+}
+province_group={
+	city_province=399
+	province_list={ 397 398 400 396 406 }
+}
+province_group={
+	city_province=403
+	province_list={ 402 404 395 401 }
+}
+province_group={
+	city_province=409
+	province_list={ 405 407 410 }
+}
+province_group={
+	city_province=412
+	province_list={ 413 }
+}
+province_group={
+	city_province=417
+	province_list={ 416 418 }
+}
+province_group={
+	city_province=420
+	province_list={ 414 419 }
+}
+province_group={
+	city_province=421
+}
+province_group={
+	city_province=423
+	province_list={ 422 }
+}
+province_group={
+	city_province=424
+}
+province_group={
+	city_province=425
+	province_list={ 426 }
+}
+province_group={
+	city_province=427
+	province_list={ 429 }
+}
+province_group={
+	city_province=428
+}
+province_group={
+	city_province=430
+}
+province_group={
+	city_province=431
+}
+province_group={
+	city_province=433
+	province_list={ 432 }
+}
+province_group={
+	city_province=434
+	province_list={ 437 }
+}
+province_group={
+	city_province=435
+}
+province_group={
+	city_province=436
+	province_list={ 452 455 }
+}
+province_group={
+	city_province=439
+	province_list={ 438 }
+}
+province_group={
+	city_province=443
+	province_list={ 440 441 442 445 }
+}
+province_group={
+	city_province=447
+	province_list={ 444 }
+}
+province_group={
+	city_province=448
+	province_list={ 446 }
+}
+province_group={
+	city_province=449
+	province_list={ 450 }
+}
+province_group={
+	city_province=451
+}
+province_group={
+	city_province=454
+	province_list={ 453 469 }
+}
+province_group={
+	city_province=456
+	province_list={ 463 }
+}
+province_group={
+	city_province=458
+	province_list={ 461 462 457 }
+}
+province_group={
+	city_province=460
+	province_list={ 459 480 481 482 483 484 485 487 }
+}
+province_group={
+	city_province=464
+	province_list={ 465 }
+}
+province_group={
+	city_province=467
+	province_list={ 455 457 470 479 466 468 472}
+}
+province_group={
+	city_province=471
+	province_list={ 455 457 470 524 479 473 }
+}
+province_group={
+	city_province=475
+	province_list={ 474 477 }
+}
+province_group={
+	city_province=476
+	province_list={ 546 478 }
+}
+province_group={
+	city_province=486
+	province_list={ 498 }
+}
+province_group={
+	city_province=488
+	province_list={ 489 }
+}
+province_group={
+	city_province=490
+	province_list={ 492 493 }
+}
+province_group={
+	city_province=494
+	province_list={ 491 496 }
+}
+province_group={
+	city_province=495
+}
+province_group={
+	city_province=497
+}
+province_group={
+	city_province=499
+	province_list={ 501 504 }
+}
+province_group={
+	city_province=502
+}
+province_group={
+	city_province=503
+}
+province_group={
+	city_province=510
+}
+province_group={
+	city_province=515
+	province_list={ 505 506 507 512 604 }
+}
+province_group={
+	city_province=518
+	province_list={ 516 517 519 513 514 }
+}
+province_group={
+	city_province=520
+	province_list={ 611 651 }
+}
+province_group={
+	city_province=522
+	province_list={ 521 }
+}
+province_group={
+	city_province=523
+}
+province_group={
+	city_province=525
+	province_list={ 526 529 }
+}
+province_group={
+	city_province=527
+	province_list={ 528 531 532 }
+}
+province_group={
+	city_province=533
+}
+province_group={
+	city_province=536
+	province_list={ 570 572 534 537 571 }
+}
+province_group={
+	city_province=538
+	province_list={ 530 535 540 }
+}
+province_group={
+	city_province=542
+	province_list={ 539 541 }
+}
+province_group={
+	city_province=545
+	province_list={ 559 }
+}
+province_group={
+	city_province=549
+	province_list={ 543 551 554 553 500 }
+}
+province_group={
+	city_province=550
+	province_list={ 547 548 }
+}
+province_group={
+	city_province=552
+	province_list={ 544 }
+}
+province_group={
+	city_province=556
+	province_list={ 555 558 560 557 }
+}
+province_group={
+	city_province=564
+	province_list={ 561 562 565 566 593 613 }
+}
+province_group={
+	city_province=567
+	province_list={ 568 569 593 599 }
+}
+province_group={
+	city_province=573
+	province_list={ 563 581 582 }
+}
+province_group={
+	city_province=574
+	province_list={ 580 579 575 578 576 586 }
+}
+province_group={
+	city_province=591
+	province_list={ 584 585 592 594 583 }
+}
+province_group={
+	city_province=597
+	province_list={ 781 782 }
+}
+province_group={
+	city_province=600
+	province_list={ 598 765 766 }
+}
+province_group={
+	city_province=602
+	province_list={ 603 612 }
+}
+province_group={
+	city_province=606
+	province_list={ 601 605 609 }
+}
+province_group={
+	city_province=614
+	province_list={ 615 626 627 }
+}
+province_group={
+	city_province=617
+	province_list={ 607 608 616 }
+}
+province_group={
+	city_province=620
+	province_list={ 610 619 }
+}
+province_group={
+	city_province=623
+	province_list={ 618 622 625 }
+}
+province_group={
+	city_province=630
+	province_list={ 624 629 }
+}
+province_group={
+	city_province=632
+	province_list={ 633 657 681 689 }
+}
+province_group={
+	city_province=635
+	province_list={ 628 634 708 706 707 709 753 }
+}
+province_group={
+	city_province=636
+	province_list={ 637 642 508 511 509 }
+}
+province_group={
+	city_province=639
+	province_list={ 638 641 }
+}
+province_group={
+	city_province=647
+	province_list={ 644 646 653 }
+}
+province_group={
+	city_province=649
+	province_list={ 643 648 652 }
+}
+province_group={
+	city_province=650
+	province_list={ 621 654 }
+}
+province_group={
+	city_province=655
+	province_list={ 631 }
+}
+province_group={
+	city_province=658
+	province_list={ 656 660 684 }
+}
+province_group={
+	city_province=661
+	province_list={ 659 678 }
+}
+province_group={
+	city_province=664
+	province_list={ 662 }
+}
+province_group={
+	city_province=668
+	province_list={ 665 667 }
+}
+province_group={
+	city_province=671
+	province_list={ 672 }
+}
+province_group={
+	city_province=673
+	province_list={ 666 674 }
+}
+province_group={
+	city_province=675
+	province_list={ 669 670 676 }
+}
+province_group={
+	city_province=679
+	province_list={ 677 687 }
+}
+province_group={
+	city_province=680
+	province_list={ 702 703 }
+}
+province_group={
+	city_province=685
+	province_list={ 682 683 }
+}
+province_group={
+	city_province=688
+	province_list={ 686 }
+}
+province_group={
+	city_province=691
+	province_list={ 690 692 713 717 720 }
+}
+province_group={
+	city_province=695
+	province_list={ 693 694 699 727 725 726 732 735 }
+}
+province_group={
+	city_province=697
+	province_list={ 696 698 700 }
+}
+province_group={
+	city_province=704
+	province_list={ 701 705 736 }
+}
+province_group={
+	city_province=715
+	province_list={ 710 711 712 716 718 719 }
+}
+province_group={
+	city_province=738
+	province_list={ 737 739 748 746 }
+}
+province_group={
+	city_province=741
+	province_list={ 733 734 740 742 744 747 731 743 }
+}
+province_group={
+	city_province=751
+	province_list={ 749 750 752 745 }
+}
+province_group={
+	city_province=754
+	province_list={ 767 768 769 }
+}
+province_group={
+	city_province=757
+	province_list={ 714 721 755 722 724 756 }
+}
+province_group={
+	city_province=759
+	province_list={ 1514 758 760 775 723 762 }
+}
+province_group={
+	city_province=763
+	province_list={ 761 764 1516 728 729 730 }
+}
+province_group={
+	city_province=776
+	province_list={ 773 774 777 }
+}
+province_group={
+	city_province=778
+	province_list={ 771 772 788 789 }
+}
+province_group={
+	city_province=779
+	province_list={ 770 780 787 781 }
+}
+province_group={
+	city_province=783
+	province_list={ 785 595 782 784 }
+}
+province_group={
+	city_province=792
+	province_list={ 790 791 793 800 }
+}
+province_group={
+	city_province=795
+	province_list={ 794 798 786 815 799 }
+}
+province_group={
+	city_province=797
+	province_list={ 589 590 596 796 }
+}
+province_group={
+	city_province=801
+	province_list={ 577 587 803 588 805 804 802 }
+}
+province_group={
+	city_province=809
+	province_list={ 806 807 808 812 813 814 816 }
+}
+province_group={
+	city_province=817
+	province_list={ 820 824 823 821 822 }
+}
+province_group={
+	city_province=825
+	province_list={ 810 811 819 818 }
+}
+province_group={
+	city_province=827
+	province_list={ 826 }
+}
+province_group={
+	city_province=831
+	province_list={ 830 832 833 834 828 829 }
+}
+province_group={
+	city_province=835
+}
+province_group={
+	city_province=837
+	province_list={ 836 838 2095 }
+}
+province_group={
+	city_province=844
+	province_list={ 843 2127 2131 840 845 2125 2126 2130 2132 846 }
+}
+province_group={
+	city_province=847
+	province_list={ 842 848 2123 849 851 2124 2129 }
+}
+province_group={
+	city_province=853
+	province_list={ 852 854 850 855 856 }
+}
+province_group={
+	city_province=861
+	province_list={ 841 859 862 863 839 858 860 857 }
+}
+province_group={
+	city_province=865
+	province_list={ 864 892 2128 }
+}
+province_group={
+	city_province=869
+	province_list={ 866 867 868 870 880 886 887 888 }
+}
+province_group={
+	city_province=873
+	province_list={ 872 874 }
+}
+province_group={
+	city_province=876
+	province_list={ 875 877 878 2096 }
+}
+province_group={
+	city_province=881
+	province_list={ 871 879 882 }
+}
+province_group={
+	city_province=885
+	province_list={ 883 884 895 }
+}
+province_group={
+	city_province=894
+	province_list={ 890 893 897 2112 2160 889 891 906 2161 2162 2183 }
+}
+province_group={
+	city_province=899
+	province_list={ 896 898 900 901 904 }
+}
+province_group={
+	city_province=903
+	province_list={ 902 2105 2116 2165 907 2164 }
+}
+province_group={
+	city_province=905
+}
+province_group={
+	city_province=909
+	province_list={ 916 2115 2169 2171 908 911 2163 2168 2113 2114 2166 2167 2170 2172 }
+}
+province_group={
+	city_province=910
+	province_list={ 2118 2119 2117 2122 2180 }
+}
+province_group={
+	city_province=912
+	province_list={ 2120 2121 2175 913 914 2133 2173 2176 2177 915 2134 2178 2179 2181 2182 2174 }
+}
+province_group={
+	city_province=919
+	province_list={ 917 942 2135 2137 2138 2144 924 }
+}
+province_group={
+	city_province=925
+	province_list={ 918 928 2153 2154 2143 2152 923 2142 2149 926 927 2145 2148 2147 2150 2151 }
+}
+province_group={
+	city_province=929
+	province_list={ 2240 2241 2244 921 2239 2243 2245 2246 2250 }
+}
+province_group={
+	city_province=931
+	province_list={ 930 932 943 2155 }
+}
+province_group={
+	city_province=934
+	province_list={ 933 935 941 2136 920 2139 2140 2141 922 2146 }
+}
+province_group={
+	city_province=937
+	province_list={ 936 940 2238 }
+}
+province_group={
+	city_province=949
+	province_list={ 948 }
+}
+province_group={
+	city_province=950
+	province_list={ 947 951 959 946 956 958 }
+}
+province_group={
+	city_province=952
+	province_list={ 944 945 }
+}
+province_group={
+	city_province=954
+	province_list={ 953 955 }
+}
+province_group={
+	city_province=961
+	province_list={ 960 962 964 965 }
+}
+province_group={
+	city_province=967
+	province_list={ 963 966 968 971 969 }
+}
+province_group={
+	city_province=974
+	province_list={ 972 973 978 970 }
+}
+province_group={
+	city_province=980
+	province_list={ 979 981 1064 977 1063 975 976 957 }
+}
+province_group={
+	city_province=984
+	province_list={ 982 983 1032 1033 }
+}
+province_group={
+	city_province=992
+	province_list={ 986 987 991 993 985 988 989 990 }
+}
+province_group={
+	city_province=1001
+	province_list={ 996 999 1000 1002 1003 994 995 997 998 1015 1016 }
+}
+province_group={
+	city_province=1006
+	province_list={ 1004 1005 1007 1010 }
+}
+province_group={
+	city_province=1012
+	province_list={ 1017 1018 1540 }
+}
+province_group={
+	city_province=1014
+	province_list={ 1008 1009 1013 }
+}
+province_group={
+	city_province=1020
+	province_list={ 1019 }
+}
+province_group={
+	city_province=1021
+	province_list={ 1022 }
+}
+province_group={
+	city_province=1023
+	province_list={ 1024 }
+}
+province_group={
+	city_province=1026
+	province_list={ 1025 1028 }
+}
+province_group={
+	city_province=1030
+	province_list={ 1027 1029 1031 1036 }
+}
+province_group={
+	city_province=1038
+	province_list={ 1034 1035 1037 1039 1040 1042 1057 }
+}
+province_group={
+	city_province=1045
+	province_list={ 1043 1048 1049 }
+}
+province_group={
+	city_province=1047
+	province_list={ 1046 }
+}
+province_group={
+	city_province=1050
+	province_list={ 1041 1044 1052 1055 1051 1056 }
+}
+province_group={
+	city_province=1054
+	province_list={ 1053 }
+}
+province_group={
+	city_province=1060
+	province_list={ 1059 1058 1061 1062 }
+}
+province_group={
+	city_province=1070
+	province_list={ 1065 1066 1069 1071 1067 1068 1084 }
+}
+province_group={
+	city_province=1076
+	province_list={ 1074 1072 1073 1075 }
+}
+province_group={
+	city_province=1078
+	province_list={ 1077 1079 1080 1082 1081 }
+}
+province_group={
+	city_province=1083
+}
+province_group={
+	city_province=1086
+	province_list={ 1085 1113 1114 1115 1116 1121 1117 }
+}
+province_group={
+	city_province=1087
+	province_list={ 1088 1089 1090 1094 1091 }
+}
+province_group={
+	city_province=1096
+	province_list={ 1092 1093 1097 1098 1102 }
+}
+province_group={
+	city_province=1104
+	province_list={ 1095 1103 1112 1105 1122 }
+}
+province_group={
+	city_province=1109
+	province_list={ 1108 1127 1128 1107 1129 1130 }
+}
+province_group={
+	city_province=1124
+	province_list={ 1110 1111 1123 1125 1126 1138 1139 1141 }
+}
+province_group={
+	city_province=1137
+	province_list={ 1133 1134 1135 1136 1146 1119 1120 }
+}
+province_group={
+	city_province=1142
+	province_list={ 1131 1132 1143 1144 1118 1145 1155 }
+}
+province_group={
+	city_province=1150
+	province_list={ 1147 1148 1149 1140 1174 }
+}
+province_group={
+	city_province=1153
+	province_list={ 1151 1152 1154 1160 1170 1171 1156 1180 }
+}
+province_group={
+	city_province=1159
+	province_list={ 1158 1165 1157 1161 }
+}
+province_group={
+	city_province=1167
+	province_list={ 1164 1166 1168 1193 1194 1169 }
+}
+province_group={
+	city_province=1177
+	province_list={ 1172 1173 1176 1178 1175 1179 1183 }
+}
+province_group={
+	city_province=1187
+	province_list={ 1186 1185 1189 1184 }
+}
+province_group={
+	city_province=1191
+	province_list={ 1163 1190 1192 1975 1979 }
+}
+province_group={
+	city_province=1198
+	province_list={ 1195 1196 1199 1208 1209 1181 1182 1200 }
+}
+province_group={
+	city_province=1205
+	province_list={ 1203 1204 1236 1201 1207 1238 1284 1282 }
+}
+province_group={
+	city_province=1213
+	province_list={ 1210 1212 1215 1218 1197 1211 1989 }
+}
+province_group={
+	city_province=1223
+	province_list={ 1234 1240 1229 1206 1221 1222 1228 1237 1239 1220 }
+}
+province_group={
+	city_province=1227
+	province_list={ 1224 1225 1226 1230 1217 1219 }
+}
+province_group={
+	city_province=1242
+	province_list={ 1278 1280 1241 1244 1243 1276 1277 1273 1274 1275 }
+}
+province_group={
+	city_province=1246
+	province_list={ 1235 1245 1247 1248 1253 1257 1258 1256 1259 }
+}
+province_group={
+	city_province=1265
+	province_list={ 1254 1255 1264 1261 1263 2223 1262 2222 2221 2224 }
+}
+
+province_group={
+	city_province=1268
+	province_list={ 1260 1266 1267 1269 1270 1271 1272 }
+}
+province_group={
+	city_province=1290
+	province_list={ 1188 1287 1288 1202 1285 1286 }
+}
+province_group={
+	city_province=1293
+	province_list={ 1291 1292 }
+}
+province_group={
+	city_province=1295
+	province_list={ 1294 1289 }
+}
+province_group={
+	city_province=1300
+	province_list={ 1299 1301 }
+}
+province_group={
+	city_province=1302
+	province_list={ 1296 1297 1298 1303 1307 1281 1283 1279 }
+}
+province_group={
+	city_province=1304
+	province_list={ 1309 1313 }
+}
+province_group={
+	city_province=1305
+	province_list={ 1306 1310 }
+}
+province_group={
+	city_province=1308
+	province_list={ 1312 }
+}
+province_group={
+	city_province=1323
+	province_list={ 1214 1320 1321 1324 2207 1216 1995 2206 2208 2210 }
+}
+province_group={
+	city_province=1334
+	province_list={ 1327 1330 1314 1329 2191 1315 1316 1317 2188 2189 2192 1318 2185 2186 2190 2193 1319 2184 2194 2187 }
+}
+province_group={
+	city_province=1337
+	province_list={ 1311 1328 1336 1338 }
+}
+province_group={
+	city_province=1339
+	province_list={ 1332 1333 1335 1340 1331 1341 }
+}
+province_group={
+	city_province=1343
+	province_list={ 1342 1351 1352 1357 1361 }
+}
+province_group={
+	city_province=1345
+	province_list={ 1344 1346 1348 1350 1347 1349 1358 }
+}
+province_group={
+	city_province=1355
+	province_list={ 1356 1354 1353 }
+}
+province_group={
+	city_province=1359
+	province_list={ 1360 }
+}
+province_group={
+	city_province=1366
+	province_list={ 1363 1362 1365 1394 1393 1392 }
+}
+province_group={
+	city_province=1368
+	province_list={ 1369 1396 1370 1367 1364 }
+}
+province_group={
+	city_province=1377
+	province_list={ 1371 1372 1376 1382 1384 1374 1373 1383}
+}
+province_group={
+	city_province=1386
+	province_list={ 1385 1494 1495 1493 1496 }
+}
+province_group={
+	city_province=1389
+	province_list={ 1390 1387 1388 }
+}
+province_group={
+	city_province=1397
+	province_list={ 1398 1399 1400 1401 1402 }
+}
+province_group={
+	city_province=1404
+	province_list={ 1403 1407 1408 1460 }
+}
+province_group={
+	city_province=1409
+	province_list={ 2097 }
+}
+province_group={
+	city_province=1411
+	province_list={ 1410 1412 1417 1413 }
+}
+province_group={
+	city_province=1418
+	province_list={ 1415 1416 1419 1424 1414 }
+}
+province_group={
+	city_province=1422
+	province_list={ 1420 1421 1423 }
+}
+province_group={
+	city_province=1426
+	province_list={ 1425 1428 1429 1430 1443 1444 }
+}
+province_group={
+	city_province=1432
+	province_list={ 1427 1431 1433 1442 }
+}
+province_group={
+	city_province=1435
+	province_list={ 938 939 1434 1436 1437 1441 2242 1438 }
+}
+province_group={
+	city_province=1447
+	province_list={ 1445 1446 1448 1454 1440 1451 }
+}
+province_group={
+	city_province=1458
+	province_list={ 1456 1457 1459 1462 1463 1455 }
+}
+province_group={
+	city_province=1465
+	province_list={ 1453 1464 1466 1469 1600 1452 }
+}
+province_group={
+	city_province=1470
+	province_list={ 1395 1405 1406 1471 1461 1467 }
+}
+province_group={
+	city_province=1475
+	province_list={ 1473 1474 1477 1592 }
+}
+province_group={
+	city_province=1480
+	province_list={ 1391 1481 1478 1479 1482 1483 }
+}
+province_group={
+	city_province=1486
+	province_list={ 1379 1380 1375 1378 }
+}
+province_group={
+	city_province=1489
+	province_list={ 1512 1487 }
+}
+province_group={
+	city_province=1490
+	province_list={ 1491 1492 1381 }
+}
+province_group={
+	city_province=1506
+	province_list={ 1568 1501 1502 1505 1507 1509 1511 1503 1504 1510 1508 }
+}
+province_group={
+	city_province=1513
+	province_list={ 1488 }
+}
+province_group={
+	city_province=1515
+	province_list={ 1521 1519 1522 }
+}
+province_group={
+	city_province=1518
+	province_list={ 1517 1549 1550 }
+}
+province_group={
+	city_province=1523
+	province_list={ 1524 1526 1497 1498 1499 1500 }
+}
+province_group={
+	city_province=1533
+	province_list={ 1529 1530 1532 1539 1525 1527 }
+}
+province_group={
+	city_province=1535
+	province_list={ 1528 1534 1537 1582 1584 1576 }
+}
+province_group={
+	city_province=1543
+	province_list={ 1544 1547 }
+}
+province_group={
+	city_province=1545
+	province_list={ 1546 }
+}
+province_group={
+	city_province=1548
+	province_list={ 1541 1542 1011 }
+}
+province_group={
+	city_province=1551
+	province_list={ 1520 1531 1552 }
+}
+province_group={
+	city_province=1556
+	province_list={ 1554 1555 1564 1553 }
+}
+province_group={
+	city_province=1558
+	province_list={ 1557 1559 1560 1754 1755 1751 1753 }
+}
+province_group={
+	city_province=1562
+	province_list={ 1561 1563 1566 1699 1741 1742 1743 }
+}
+province_group={
+	city_province=1567
+	province_list={ 1536 1538 1565 1585 1588 1586 }
+}
+province_group={
+	city_province=1570
+	province_list={ 1484 1485 1569 1571 1572 1574 1575 }
+}
+province_group={
+	city_province=1590
+	province_list={ 1472 1476 1589 1591 1468 1597 }
+}
+province_group={
+	city_province=1604
+	province_list={ 1598 1599 1603 }
+}
+province_group={
+	city_province=1610
+	province_list={ 1602 1609 1611 1601 }
+}
+province_group={
+	city_province=1613
+	province_list={ 1449 1450 1612 1614 1618 1439 1615 1617 1616 }
+}
+province_group={
+	city_province=1624
+	province_list={ 1608 1623 }
+}
+province_group={
+	city_province=1628
+	province_list={ 1625 1629 1626 }
+}
+province_group={
+	city_province=1635
+	province_list={ 1627 1630 1633 1622 1619 }
+}
+province_group={
+	city_province=1638
+	province_list={ 1636 1637 1639 1620 1640 1641 2248 2249 2247 2251 }
+}
+province_group={
+	city_province=1644
+	province_list={ 1621 1642 1643 1645 1631 1769 1763 1768 1771 1764 }
+}
+province_group={
+	city_province=1649
+	province_list={ 1632 1634 1646 1650 1647 }
+}
+province_group={
+	city_province=1652
+	province_list={ 1648 1651 1656 1782 1783 1790 1793 }
+}
+province_group={
+	city_province=1655
+	province_list={ 1653 1657 1658 1659 1791 1792 1806 1805 }
+}
+province_group={
+	city_province=1661
+	province_list={ 1654 1660 1662 1664 1799 1797 1798 1801 }
+}
+province_group={
+	city_province=1663
+	province_list={ 1605 1606 1607 1665 1666 }
+}
+province_group={
+	city_province=1668
+	province_list={ 1596 1594 1595 1667 1670 1671 1593 }
+}
+province_group={
+	city_province=1674
+	province_list={ 1669 1673 1677 1678 1676 1800 }
+}
+province_group={
+	city_province=1681
+	province_list={ 1675 1679 1682 1686 1683 1685 }
+}
+province_group={
+	city_province=1687
+	province_list={ 1573 1672 1680 1688 1577 1689 1690 }
+}
+province_group={
+	city_province=1693
+	province_list={ 1579 1580 1692 1695 1578 1581 1583 }
+}
+province_group={
+	city_province=1700
+	province_list={ 1696 1697 1698 1702 1587 }
+}
+province_group={
+	city_province=1705
+	province_list={ 1740 1701 1703 1704 1711 1712 1714 1715 }
+}
+province_group={
+	city_province=1706
+	province_list={ 1694 1707 1709 1710 1684 1691 1708 }
+}
+province_group={
+	city_province=1729
+	province_list={ 1713 1726 1727 1728 1730 1733 1725 1883 1885 }
+}
+province_group={
+	city_province=1735
+	province_list={ 1731 1732 1734 1917 1887 1916 1888 }
+}
+province_group={
+	city_province=1736
+	province_list={ 1737 1745 1738 }
+}
+province_group={
+	city_province=1748
+	province_list={ 1739 1746 1747 1750 1744 1749 1752 }
+}
+province_group={
+	city_province=1760
+	province_list={ 1758 1761 1756 1757 }
+}
+province_group={
+	city_province=1762
+	province_list={ 1759 1928 1925 }
+}
+province_group={
+	city_province=1780
+	province_list={ 1770 1774 1777 1781 1784 1785 1786 1772 1773 1775 1776 1765 1766 1767 }
+}
+province_group={
+	city_province=1796
+	province_list={ 1787 1788 1789 1795 1833 1838 1839 1778 1779 1794 1819 2253 }
+}
+province_group={
+	city_province=1808
+	province_list={ 1717 1718 1807 1810 1716 1719 1802 1803 1815 }
+}
+province_group={
+	city_province=1822
+	province_list={ 1816 1817 1821 1823 1843 1844 1804 1809 1814 1818 1820 1858 }
+}
+province_group={
+	city_province=1825
+	province_list={ 1720 1721 1811 1812 1824 1826 1722 1813 1831 1832 1859 }
+}
+province_group={
+	city_province=1829
+	province_list={ 1724 1828 1830 1873 1874 1881 1723 1827 1871 1884 }
+}
+province_group={
+	city_province=1847
+	province_list={ 1837 1841 1842 1846 1849 1836 1840 }
+}
+province_group={
+	city_province=1850
+	province_list={ 1845 1848 1851 1854 1855 1856 1857 }
+}
+province_group={
+	city_province=1862
+	province_list={ 1861 1864 1866 1867 1860 1863 1868 1869 1872 1870 }
+}
+province_group={
+	city_province=1880
+	province_list={ 1876 1877 1878 1879 1889 1891 1892 1893 1875 1882 1886 1890 1895 1898 }
+}
+province_group={
+	city_province=1900
+	province_list={ 1902 1903 1905 1897 1901 1904 1906 1908 }
+}
+province_group={
+	city_province=1920
+	province_list={ 1918 1919 1921 1922 }
+}
+province_group={
+	city_province=1924
+	province_list={ 1911 1912 1923 1909 1910 1915 1899 }
+}
+province_group={
+	city_province=1930
+	province_list={ 1929 }
+}
+province_group={
+	city_province=1934
+	province_list={ 1931 1932 1933 1937 1959 1926 1960 1961 }
+}
+province_group={
+	city_province=1936
+	province_list={ 1913 1927 1935 1938 1939 1914 1940 1907 }
+}
+province_group={
+	city_province=1947
+	province_list={ 1965 1943 1944 1945 1946 1948 1949 1941 1964 }
+}
+province_group={
+	city_province=1955
+	province_list={ 1956 1953 1957 2195 1950 1951 1952 1942 }
+}
+province_group={
+	city_province=1962
+	province_list={ 1958 1963 }
+}
+province_group={
+	city_province=1968
+	province_list={ 1971 1954 1967 1969 1970 1981 1966 1976 }
+}
+province_group={
+	city_province=1973
+	province_list={ 1162 1972 1974 }
+}
+province_group={
+	city_province=1980
+	province_list={ 1977 1982 1983 1984 1985 1986 1978 2198 2196 }
+}
+province_group={
+	city_province=1988
+	province_list={ 1987 1991 1992 1990 1994 }
+}
+province_group={
+	city_province=2002
+	province_list={ 2003 2006 2009 2004 1997 }
+}
+province_group={
+	city_province=2007
+	province_list={ 2000 2005 2010 2011 1998 1999 2001 }
+}
+province_group={
+	city_province=2015
+	province_list={ 2008 2012 2013 2014 }
+}
+province_group={
+	city_province=2016
+}
+province_group={
+	city_province=2019
+	province_list={ 2020 2022 2023 2024 2017 2018 }
+}
+province_group={
+	city_province=2021
+}
+province_group={
+	city_province=2028
+}
+province_group={
+	city_province=2029
+	province_list={ 2030 2033 2034 2027 2031 2032 2037 2025 2026 }
+}
+province_group={
+	city_province=2041
+	province_list={ 2035 2036 2040 2042 2038 2039 }
+}
+province_group={
+	city_province=2046
+	province_list={ 2043 2045 2050 2044 }
+}
+province_group={
+	city_province=2048
+	province_list={ 2047 2049 }
+}
+province_group={
+	city_province=2053
+	province_list={ 2051 2052 2054 2055 }
+}
+province_group={
+	city_province=2057
+	province_list={ 2056 2058 2059 2060 2061 2062 2063 2064 2065 }
+}
+province_group={
+	city_province=2070
+	province_list={ 2066 2069 2071 2072 2067 2068 2073 2074 }
+}
+province_group={
+	city_province=2079
+	province_list={ 2078 2081 2077 2083 2076 2075 }
+}
+province_group={
+	city_province=2085
+	province_list={ 1322 2080 2082 2084 2086 2087 2088 2089 }
+}
+province_group={
+	city_province=2090
+	province_list={ 2091 }
+}
+province_group={
+	city_province=2092
+	province_list={ 1100 1099 1101 1106 }
+}
+province_group={
+	city_province=2094
+	province_list={ 2093 }
+}
+province_group={
+	city_province=2099
+	province_list={ 1852 1853 2098 2100 2234 2235 }
+}
+province_group={
+	city_province=2103
+	province_list={ 2102 2237 1834 1835 2101 2236 }
+}
+province_group={
+	city_province=2104
+	province_list={ 2256 2257 2254 2255 2252 }
+}
+province_group={
+	city_province=2106
+	province_list={ 1865 2229 2230 2231 2232 2233 }
+}
+province_group={
+	city_province=2107
+	province_list={ 2226 2227 1894 1896 2225 2228 }
+}
+province_group={
+	city_province=2108
+	province_list={ 2156 1996 2201 2203 2204 2205 1993 2200 2202 2197 2199 2158 2159 2157 }
+}
+province_group={
+	city_province=2109
+	province_list={ 1231 1232 1325 2209 2212 2213 2215 1233 1249 1250 2211 2214 2216 2218 1251 1252 2217 2219 2220 }
+}
+province_group={
+	city_province=2110
+}
+province_group={
+	city_province=2111
+}
+province_group={
+	city_province=1326
+}

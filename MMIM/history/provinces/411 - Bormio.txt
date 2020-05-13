@@ -1,0 +1,20 @@
+#411 - Bormio
+
+owner = KOI
+
+controller = KOI
+
+add_core = KOI
+
+transport2 = yes
+
+development2 = yes
+
+port_income = 0
+
+victory_value = 0
+
+# = 4
+
+culture = lombardian
+

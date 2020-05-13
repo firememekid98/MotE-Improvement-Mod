@@ -1,0 +1,270 @@
+CODE;ENGLISH;FRENCH;GERMAN;POLSKI;SPANISH;ITALIAN;SWEDISH;CZECH;HUNGARIAN;DUTCH;PORTUGESE;RUSSIAN;FINNISH;x
+PEACE_CANNOT_ANNEX_OCCUPY;We must occupy all of their Cities before we can annex them.;;Wir müssen erst all ihre Städte einnehmen, bevor wir sie annektieren können.;;;;;;;;;;;x
+WAR_SUBSIDY_TIP;Give them monthly payments to help their economy in times of war.;;Gebt ihnen monatliche Zahlungen, um ihre Wirtschaft in Zeiten des Krieges zu unterstützen.;;;;;;;;;;;x
+CANCEL_WAR_SUBSIDY_TIP;Stop our monthly payments to them.;;Stoppt Eure monatlichen Zahlungen an sie.;;;;;;;;;;;x
+FORCE_MARCH_LOSSES;Force marching can add extra attrition and morale damage to the troops.;;Ein Gewaltmarsch kann Euren Truppen weitere Zermürbung und moralischen Schaden zufügen.;;;;;;;;;;;x
+FORCE_MARCH_MOD;Damage from force marching is modified by: $MOD$.;;Der Schaden durch Gewaltmärsche wird modifiziert durch: $MOD$.;;;;;;;;;;;x
+FLAG_TOOLTIP_SHIP;Honorably captured the flag of and sank the $COUNTRY_ADJ$ $NAME$ squadron on $DATE$.;;Ihr habt ihre Flagge ehrenvoll erobert und das $COUNTRY_ADJ$ $NAME$ Geschwader am $DATE$ versenkt.;;;;;;;;;;;x
+SUB_SUNK;Sunk Squadrons;;Versenkte Geschwader;;;;;;;;;;;x
+NO_SUNK_SHIPS;This squadron hasn't sunk any squadrons yet.;;Dieses Geschwader hat noch keine Geschwader versenkt.;;;;;;;;;;;x
+SUNK_SHIPS;§Y$COUNT$§! sunk squadrons.;;§Y$COUNT$§! versenkte Geschwader.;;;;;;;;;;;x
+MOVEMENT_SPEED_TOOLTIP;Movement speed: §Y$SPEED$§!\n§YLimiting forces:§!;;Geschwindigkeit: §Y$SPEED$§!\n§YEinheitenlimit:§!;;;;;;;;;;;x
+UNIT_CONSTRUCTED_SETUP;When a unit has been constructed.;;Wenn eine Einheit aufgestellt wurde.;;;;;;;;;;;x
+UNIT_CONSTRUCTED_HEADER;New unit constructed!;;Neue Einheit aufgestellt!;;;;;;;;;;;x
+UNIT_CONSTRUCTED_1;$MONARCHTITLE$,;;$MONARCHTITLE$,;;;;;;;;;;;x
+UNIT_CONSTRUCTED_2;we have just finished;;wir haben soeben erfolgreich;;;;;;;;;;;x
+UNIT_CONSTRUCTED_3;the construction of;;die Aufstellung von;;;;;;;;;;;x
+UNIT_CONSTRUCTED_4;$UNIT$;;$UNIT$ ;;;;;;;;;;;x
+UNIT_CONSTRUCTED_5;in §Y$PROV$§!;;in §Y$PROV$§! beendet!;;;;;;;;;;;x
+UNIT_CONSTRUCTED_6;*;;*;;;;;;;;;;;x
+UNIT_CONSTRUCTED_LOG;$UNIT$ constructed in $PROV$.;;$UNIT$ in $PROV$ aufgestellt.;;;;;;;;;;;x
+UNIT_CONSTRUCTED_BTN1;Great!;;Großartig!;;;;;;;;;;;x
+UNIT_CONSTRUCTED_BTN2;Great!;;Großartig!;;;;;;;;;;;x
+UNIT_CONSTRUCTED_BTN3;Goto;;Goto;;;;;;;;;;;x
+UNIT_CONSTRUCTED_MAP;$UNIT$ Constructed;;$UNIT$ aufgestellt;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_SETUP;When a nation takes control of a dominance objective.;;Wenn eine Nation die Kontrolle über ein Vormachtstellungs-Ziel übernimmt.;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_HEADER;$MONARCHTITLE$;;$MONARCHTITLE$;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_1;Dominance Objective Taken;;Vormachtstellungs-Ziel eingenommen;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_2;We have just learned that;;Wir haben soeben erfahren, dass ;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_3;$TAKER$;;$TAKER$;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_4;has taken control over;;die Kontrolle über;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_5;$PROV$ from $GIVER$.;;$PROV$ von $GIVER$ übernommen hat.;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_6;They are now one step closer to become $TYPE$.;;Sie sind nun einen Schritt näher, $TYPE$ zu werden.;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_LOG;$TAKER$ took control over their dominance objective $PROV$.;;$TAKER$ hat die Kontrolle über ihr Vormachtstellungs-Ziel $PROV$ übernommen.;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_BTN1;Ok;;OK;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_BTN2;Ok;;OK;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_BTN3;Goto;;Goto;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_MAP;+Dominance Objective;;+Vormachtsstellungs-Ziel;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_PLAYER_SETUP;When we take control of a dominance objective.;;Wenn wir die Kontrolle über ein Vormachtstellungs-Ziel übernehmen.;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_PLAYER_HEADER;$MONARCHTITLE$;;$MONARCHTITLE$;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_PLAYER_1;Dominance Objective Taken;;Vormachtstellungs-Ziel eingenommen;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_PLAYER_2;We have taken control over;;Wir haben die Kontrolle über;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_PLAYER_3;$PROV$ from $GIVER$.;;$PROV$ von $GIVER$ übernommen.;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_PLAYER_4;We are now one step closer to become $TYPE$.;;Wir sind nun einen Schritt näher, $TYPE$ zu werden.;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_PLAYER_5;*;;*;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_PLAYER_6;*;;*;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_PLAYER_LOG;$TAKER$ took control over their dominance objective $PROV$.;;$TAKER$ hat die Kontrolle über ihr Vormachtstellungs-Ziel $PROV$ übernommen.;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_PLAYER_BTN1;Ok;;OK;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_PLAYER_BTN2;Ok;;OK;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_PLAYER_BTN3;Goto;;Goto;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_TAKEN_PLAYER_MAP;+Dominance Objective;;+Vormachtsstellungs-Ziel;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_SETUP;When a nation loses control of a dominance objective.;;Wenn eine Nation die Kontrolle über ein Vormachtstellungs-Ziel verliert.;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_HEADER;$MONARCHTITLE$;;$MONARCHTITLE$;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_1;Dominance Objective Lost;;Vormachtstellungs-Ziel verloren;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_2;We have just learned that;;Wir haben soeben erfahren, dass ;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_3;$GIVER$;;$GIVER$;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_4;has lost control over;;die Kontrolle über;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_5;$PROV$ to $TAKER$.;;$PROV$ an $TAKER$ verloren hat.;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_6;They are now one step further away from becoming $TYPE$.;;Sie sind nun einen Schritt weiter davon entfernt, $TYPE$ zu werden.;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_LOG;$GIVER$ lost control over their dominance objective $PROV$.;;$GIVER$ hat die Kontrolle über ihr Vormachtstellungs-Ziel $PROV$ verloren.;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_BTN1;Ok;;OK;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_BTN2;Ok;;OK;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_BTN3;Goto;;Goto;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_MAP;-Dominance Objective;;-Vormachtsstellungs-Ziel;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_PLAYER_SETUP;When we lose control of a dominance objective.;;Wenn wir die Kontrolle über ein Vormachtstellungs-Ziel verlieren.;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_PLAYER_HEADER;$MONARCHTITLE$;;$MONARCHTITLE$;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_PLAYER_1;Dominance Objective Lost;;Vormachtstellungs-Ziel verloren;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_PLAYER_2;We have lost control over;;Wir haben die Kontrolle über;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_PLAYER_3;$PROV$ to $TAKER$.;;$PROV$ an $TAKER$ verloren.;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_PLAYER_4;We are now one step further away from becoming $TYPE$.;;Wir sind nun einen Schritt weiter davon entfernt, $TYPE$ zu werden.;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_PLAYER_5;*;;*;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_PLAYER_6;*;;*;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_PLAYER_LOG;$GIVER$ lost control over their dominance objective $PROV$.;;$GIVER$ hat die Kontrolle über ihr Vormachtstellungs-Ziel $PROV$ verloren.;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_PLAYER_BTN1;Ok;;OK;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_PLAYER_BTN2;Ok;;OK;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_PLAYER_BTN3;Goto;;Goto;;;;;;;;;;;x
+DOMINANCE_OBJECTIVE_LOST_PLAYER_MAP;-Dominance Objective;;-Vormachtsstellungs-Ziel;;;;;;;;;;;x
+INVALID_FLANK_COMMAND_SELECTED_TIP;This tactic doesn't have all of it's requirements fulfilled. It will not be used in combat!;;Es wurden noch nicht alle Anforderungen dieser Taktik erfüllt. Sie wird nicht im Kampf verwendet werden!;;;;;;;;;;;x
+JOIN_WARTITLE;Join War;;Krieg beitreten;;;;;;;;;;;x
+JOIN_WAR_DESC;Do you wish to join $MEMBER$ in their war a gainst $TARGET$?;;Wollt Ihr $MEMBER$ in ihrem Krieg gegen $TARGET$ beistehen?;;;;;;;;;;;x
+JOIN_WAR_TIP;Join $MEMBER$ in their war against $TARGET$;;Unterstützt $MEMBER$ in ihrem Krieg gegen $TARGET$;;;;;;;;;;;x
+TUT_BAS_CHAPTER01_BUTTON;Introduction;;Einführung;;;;;;;;;;;x
+TUT_BAS_CHAPTER02_BUTTON;Command;;Befehl;;;;;;;;;;;x
+TUT_BAS_CHAPTER03_BUTTON;Recruit;;Rekrutieren;;;;;;;;;;;x
+TUT_BAS_CHAPTER04_BUTTON;Control;;Kontrolle;;;;;;;;;;;x
+TUT_BAS_CHAPTER05_BUTTON;Victory;;Sieg;;;;;;;;;;;x
+TUT_BAS_CHAPTER06_BUTTON;War;;Krieg;;;;;;;;;;;x
+PROV1268_CITY;Kuwait;;Kuwait;;;;;;;;;;;x
+PROV265_CITY;Chambery;;Chambéry;;;;;;;;;;;x
+MILALLACCEPT_2;$MONARCHTITLE$, $JOINER$;;$MONARCHTITLE$, $JOINER$;;;;;;;;;;;x
+DECREASE_TO_US_2;$MONARCHTITLE$, $ACTOR$ have framed us for;;$MONARCHTITLE$, $ACTOR$ hat uns;;;;;;;;;;;x
+DECREASE_TO_US_3;planning a coup in $TARGET$.;;einen geplanten Putsch gegen $TARGET$ angehängt.;;;;;;;;;;;x
+DECREASE_TO_US_4;$TARGET$ is very upset with us;;$TARGET$ ist sehr verärgert mit uns;;;;;;;;;;;x
+DECREASE_TO_US_6;and our relations are now: $RELATION$;;und unsere Beziehungen sind nun: $RELATION$;;;;;;;;;;;x
+COSTLY_ASSAULT;§RThe assault would probably fail and your troops would take heavy casualties.§!;§RL’assaut risquerait d’échouer et vos troupes subiraient de lourdes pertes.§!;§RDer Angriff würde wahrscheinlich scheitern und Eure Truppen schwere Verluste erleiden.§!;;§REl asalto fallaría seguramente y tus tropas tendrían grandes bajas.§!;;;;;;;;;x
+EVEN_ASSAULT;§YYou have a fair chance of winning this assault.§!;§YVous avez des chances de remporter cet assaut.§!;§YIhr habt mit diesem Angriff gute Erfolgsaussichten.§!;;§YTienes una oportunidad de ganar este asalto.§!;;;;;;;;;x
+EASY_ASSAULT;§GYou have a high chance of winning this assault.§!;§GVous avez de grandes chances de remporter cet assaut.§!;§YIhr habt mit diesem Angriff hohe Erfolgsaussichten.§!;;§GTienes una muchas posibilidades de ganar este asalto.§!;;;;;;;;;x
+MOVEMENT_RETREATING;Retreating;;Rückzug;;;;;;;;;;;x
+AM_OCV_NOTLANDDOMINANT;§Y$COUNTRY$§! still need to relieve §Y$DOMINATOR$§! as land dominant country by forcing their dominance score below §Y100%§!.;;§Y$COUNTRY$§! muss §Y$DOMINATOR$§! weiterhin als Land mit Vormachtstellung zu Land ablösen, indem es deren Vormachtstellungs-Wertung unter §Y100%§! bringt.;;;;;;;;;;;x
+AM_OCV_NOTNAVALDOMINANT;§Y$COUNTRY$§! still need to relieve §Y$DOMINATOR$§! as naval dominant country by forcing their dominance score below §Y100%§!.;;§Y$COUNTRY$§! muss §Y$DOMINATOR$§! weiterhin als Land mit Vormachtstellung zur See ablösen, indem es deren Vormachtstellungs-Wertung unter §Y100%§! bringt.;;;;;;;;;;;x
+EUROPE_YEAR;Europe in $YEAR$ AD;;Europa im Jahre $YEAR$ AD;;;;;;;;;;;x
+COALITION_CANT_JOIN_IN_OTHER_COALITION;You are already in another Coalition. You have to leave your current Coalition before you can join another.;;Ihr befindet Euch bereits in einem anderen Bündnis. Ihr müsst das bestehende Bündnis verlassen, bevor Ihr einem anderen beitreten könnt.;;;;;;;;;;;x
+COALITION_CANT_JOIN_IN_OTHER_COALITION_OTHER;$WHO$ is a member of another Coalition.;;$WHO$ ist bereits Mitglied in einem anderen Bündnis.;;;;;;;;;;;x
+COALITION_CANT_JOIN_ALREADY_MEMBER;You are already a member of this Coalition.;;Ihr seid bereits ein Mitglied dieses Bündnisses.;;;;;;;;;;;x
+COALITION_CANT_JOIN_ALREADY_MEMBER_OTHER;$WHO$ is already a member of the Coalition.;;$WHO$ ist bereits Mitglied in diesem Bündnis.;;;;;;;;;;;x
+COALITION_CANT_JOIN_AT_WAR_WITH_MEMBER;You are at war with one or more of the Coalition's members!;;Ihr befindet Euch mit einem oder mehreren Mitgliedern dieses Bündnisses im Krieg!;;;;;;;;;;;x
+COALITION_CANT_JOIN_AT_WAR_WITH_MEMBER_OTHER;$WHO$ is at war with one or more of the Coalition's members!;;$WHO$ befindet sich mit einem oder mehreren Mitgliedern dieses Bündnisses im Krieg!;;;;;;;;;;;x
+COALITION_CANT_JOIN_TRUCE;We have a truce with one or more of the enemies!;;Wir haben mit einem oder mehreren der Gegner eine Waffenruhe!;;;;;;;;;;;x
+COALITION_CANT_JOIN_TRUCE_OTHER;$WHO$ has a truce with one or more of the enemies!;;$WHO$ hat mit einem oder mehreren der Gegner eine Waffenruhe!;;;;;;;;;;;x
+alert_create_coalition_delayed;Since there is no current Coalition against §Y$ENEMY$§!, and $CONDITION$, you can create a Coalition against them!\nCreate a coalition by inviting someone from the Diplomacy View.;;Da zur Zeit kein aktuelles Bündnis gegen §Y$ENEMY$§! und $CONDITION$ besteht, könnt Ihr ein Bündnis gegen sie schließen!\nUm ein Bündnis zu schließen, wechselt in die Diplomatie-Ansicht, um jemanden dazu einzuladen.;;;;;;;;;;;x
+COALITION_CREATE_CONDITION_WAR;you are at war with them;;Ihr befindet Euch mit ihnen im Krieg;;;;;;;;;;;x
+COALITION_CREATE_CONDITION_DOMINANT;you are the other dominant country;;Ihr seid das andere Land mit Vormachtstellung;;;;;;;;;;;x
+CREATE_COALITION_DESC_WAR;Do you wish to form a Coalition against §Y$ENEMY$§!?\nYou will become the coalition's leader and be able to invite others to fight with you in your war against $ENEMY$.;;Möchtet Ihr ein Bündnis gegen §Y$ENEMY$§! schließen?\nIhr werdet der Bündnis-Führer und könnt andere dazu einladen, Euch im Krieg gegen $ENEMY$ zur Seite zu stehen.;;;;;;;;;;;x
+COALITION_INVITE_TIP;Ask them to join your Coalition.;;Ladet sie in Euer Bündnis ein.;;;;;;;;;;;x
+COALITION_JOIN_TIP;Ask to join their Coalition.;;Bittet darum, ihrem Bündnis beitreten zu können.;;;;;;;;;;;x
+COALITION_LEAVE_TIP;Leave their Coalition.;;Verlasst ihr Bündnis.;;;;;;;;;;;x
+COALITION_KICK_TIP;Remove them from your Coalition.;;Entlasst sie aus Eurem Bündnis.;;;;;;;;;;;x
+OVERRUN;Overrun!;;Überrannt!;;;;;;;;;;;x
+OVERRUN_EVENT_TEXT;$COUNTRY$ was overwhelmed by their mighty opponent.;;$COUNTRY$ hatte dem mächtigen Gegner nichts entgegenzusetzen.;;;;;;;;;;;x
+OVERRUN_NO_LEADER_EVENT_TEXT;$NATIONALITY$ soldiers laughed while the $NATIONALITY2$ threw their weapons and ran as fast as they could.;;Die $NATIONALITY$ Soldaten lachten lauthals, als die $NATIONALITY2$ ihre Waffen wegschmissen und das Weite suchten.;;;;;;;;;;;x
+OVERRUN_LEADER_EVENT_TEXT;$LEADER$ cried while his whole army cowardly deserted.;;$LEADER$ konnte nur noch weinen, als seine gesamte Armee feige desertierte.;;;;;;;;;;;x
+MS_CREATE_GAME;Create Game;;Spiel erstellen;;;;;;;;;;;x
+KICKFROMCOALITIONTITLE;Remove from Coalition;;Aus dem Bündnis entlassen;;;;;;;;;;;x
+COALITION_WE_KICK_SETUP;When we remove someone from our Coalition;;Wenn wir jemanden aus unserem Bündnis entlassen;;;;;;;;;;;x
+COALITION_WE_KICK_HEADER;$MESSENGER$;;$MESSENGER$;;;;;;;;;;;x
+COALITION_WE_KICK_1;Coalition member dismissed!;;Bündnispartner entlassen!;;;;;;;;;;;x
+COALITION_WE_KICK_2;$MONARCHTITLE$,;;$MONARCHTITLE$,;;;;;;;;;;;x
+COALITION_WE_KICK_3;we removed $RECIPIENT$ from our Coalition!;;wir haben $RECIPIENT$ aus unserem Bündnis entlassen!;;;;;;;;;;;x
+COALITION_WE_KICK_4;*;;*;;;;;;;;;;;x
+COALITION_WE_KICK_5;*;;*;;;;;;;;;;;x
+COALITION_WE_KICK_6;*;;*;;;;;;;;;;;x
+COALITION_WE_KICK_LOG;We have removed $RECIPIENT$ from our Coalition.;;Wir haben $RECIPIENT$ aus unserem Bündnis entlassen.;;;;;;;;;;;x
+COALITION_WE_KICK_BTN1;OK;;OK;;;;;;;;;;;x
+COALITION_WE_KICK_BTN2;OK;;OK;;;;;;;;;;;x
+COALITION_WE_KICK_BTN3;Goto;;Goto;;;;;;;;;;;x
+COALITION_WE_KICK_MAP;*;;*;;;;;;;;;;;x
+COALITION_WE_KICKED_SETUP;When we are removed from a Coalition;;Wenn wir aus einem Bündnis entlassen werden;;;;;;;;;;;x
+COALITION_WE_KICKED_HEADER;$MESSENGER$;;$MESSENGER$;;;;;;;;;;;x
+COALITION_WE_KICKED_1;Dismissed!;;Entlassen!;;;;;;;;;;;x
+COALITION_WE_KICKED_2;$MONARCHTITLE$,;;$MONARCHTITLE$,;;;;;;;;;;;x
+COALITION_WE_KICKED_3;we have been removed from the;;wir wurden aus;;;;;;;;;;;x
+COALITION_WE_KICKED_4;Coalition lead by $ACTOR$!;;dem Bündnis von $ACTOR$ entlassen!;;;;;;;;;;;x
+COALITION_WE_KICKED_5;*;;*;;;;;;;;;;;x
+COALITION_WE_KICKED_6;*;;*;;;;;;;;;;;x
+COALITION_WE_KICKED_LOG;We have been removed from the Coalition.;;Wir wurden aus dem Bündnis entlassen.;;;;;;;;;;;x
+COALITION_WE_KICKED_BTN1;OK;;OK;;;;;;;;;;;x
+COALITION_WE_KICKED_BTN2;OK;;OK;;;;;;;;;;;x
+COALITION_WE_KICKED_BTN3;Goto;;Goto;;;;;;;;;;;x
+COALITION_WE_KICKED_MAP;*;;*;;;;;;;;;;;x
+COALITION_SUBSIDY_TIP_WE_PAY;We are currently giving them a subsidy of $VALUE$ per month for being part of our Coalition.;;Wir zahlen ihnen momentan Fördermittel im Wert von $VALUE$ pro Monat als Gegenleistung für ihre Mitgliedschaft in unserem Bündnis.;;;;;;;;;;;x
+COALITION_SUBSIDY_TIP_THEY_PAY;They are currently giving us a subsidy of $VALUE$ per month for being part of their Coalition.;;Wir erhalten von ihnen momentan Fördermittel im Wert von $VALUE$ pro Monat als Gegenleistung für unsere Mitgliedschaft in ihrem Bündnis.;;;;;;;;;;;x
+COALITION_SUBSIDY_TIP_WE_WILL_PAY;We will give them a subsidy of $VALUE$ per month for being part of our Coalition.;;Wir werden ihnen Fördermittel im Wert von $VALUE$ pro Monat als Gegenleistung für ihre Mitgliedschaft in unserem Bündnis zahlen.;;;;;;;;;;;x
+COALITION_SUBSIDY_TIP_THEY_WILL_PAY;They will give us a subsidy of $VALUE$ per month for being part of their Coalition.;;Sie werden uns Fördermittel im Wert von $VALUE$ pro Monat als Gegenleistung für unsere Mitgliedschaft in ihrem Bündnis zahlen.;;;;;;;;;;;x
+COALITION_PROMOTETITLE;Make Coalition Leader;;Zum Bündnis-Führer ernennen;;;;;;;;;;;x
+COALITION_PROMOTEDESC;Make $WHO$ your Coalition leader. The Coalition's leader is the one who pays all the subsidies.;;Ernennt $WHO$ zu Eurem Bündnis-Führer. Der Bündnis-Führer zahlt alle Fördermittel.;;;;;;;;;;;x
+COALITION_PROMOTE_TIP;Transfer Coalition leadership.;;Übertragt die Bündnis-Führung.;;;;;;;;;;;x
+COALITION_PROMOTE_CREATE_TIP;Ask them to create a Coalition.;;Bittet sie, ein Bündnis zu schließen.;;;;;;;;;;;x
+COALITION_PROMOTE_TYPE;Coalition Leadership offer;;Angebot zur Bündnis-Führung;;;;;;;;;;;x
+COALITION_SUBSIDY_THEY_PAY_US;$WHO$ will give us a subsidy of §G$MONEY$§! per month while we remain a member of the Coalition.;;$WHO$ zahlt uns Fördermittel in Höhe von §G$MONEY$§! pro Monat, solange wir ein Mitglied des Bündnisses bleiben.;;;;;;;;;;;x
+COALITION_SUBSIDY_WE_PAY_THEM;We will give them a subsidy of §R$MONEY$§! per month while they remeain a member of the Coalition.;;Wir zahlen ihnen Fördermittel in Höhe von §R$MONEY$§! pro Monat, solange sie ein Mitglied des Bündnisses bleiben.;;;;;;;;;;;x
+COALITION_WILL_BE_CREATED;The Coalition does not exist yet, but will be created if you Accept.;;Das Bündnis besteht noch nicht, wird jedoch geschlossen, wenn Ihr annehmt.;;;;;;;;;;;x
+COALITION_PROMOTE_PROPOSAL;§Y$ACTOR$§! wishes you to be the leader of the Coalition against §Y$ENEMY$§!. It will cost you $COST$ each month to pay the Coalition members' subsidies.;;§Y$ACTOR$§! wünscht, dass Ihr der Bündnis-Führer gegen §Y$ENEMY$§! werdet. Es wird Euch monatlich $COST$ kosten, um allen Bündnispartnern Fördermittel zu zahlen.;;;;;;;;;;;x
+COALITION_PROMOTE_DISBAND_WARNING;Accepting the offer will automatically disband your current Coalition! You will lose $PRESTIGE$ prestige and your relation with each member will change by $RELATION$!;;Wenn Ihr dieses Angebot annehmt, wird Euer aktuelles Bündnis automatisch aufgelöst! Ihr werdet $PRESTIGE$ Prestige verlieren und Eure Beziehungen mit allen Bündnispartnern werden sich um $RELATION$ verändern!;;;;;;;;;;;x
+COALITION_PROMOTE_LEAVE_WARNING;Accepting the offer will make you leave your current Coalition! You will lose $PRESTIGE$ prestige and your relation with $CURRENT_LEADER$ will change by $RELATION$!;;Wenn Ihr dieses Angebot annehmt, werdet Ihr Euer aktuelles Bündnis automatisch verlassen! Ihr werdet $PRESTIGE$ Prestige verlieren und Eure Beziehungen mit $CURRENT_LEADER$ werden sich um $RELATION$ verändern!;;;;;;;;;;;x
+PROV1366_CITY;Utena;;Utena;;;;;;;;;;;x
+VASSAL_NEW_OVERLORD;$WHO$ will release $VASSAL$ as a satellite to $NEWOVERLORD$.;;$WHO$ wird $VASSAL$ als Vasallen an $NEWOVERLORD$ abtreten.;;;;;;;;;;;x
+british_luddites;Luddite Rebels;;Luddit-Rebellen;;;;;;;;;;;x
+british_luddites_title;Luddite Rebels;;Luddit-Rebellen;;;;;;;;;;;x
+british_luddites_name;Luddite Rebels;;Luddit-Rebellen;;;;;;;;;;;x
+british_luddites_army;Army of Luddite Rebels;;Armee von Luddit-Rebellen;;;;;;;;;;;x
+british_luddites_desc;Luddite Rebels are English textile artisans who protest against being replaced with less-skilled, low-wage labour.;;Luddit-Rebellen sind englische Textilhersteller, die dagegen protestieren, dass sie von weniger erfahrenen Niedriglöhnern ersetzt werden.;;;;;;;;;;;x
+SpanishRebelInfantry;Spanish Rebel Infantry Brigade;;Spanisches Rebellen-Infanterieregiment;;;;;;;;;;;x
+SpanishRebelCavalry;Spanish Rebel Cavalry Brigade;;Spanisches Rebellen-Kavallerieregiment;;;;;;;;;;;x
+TyroleanRebelInfantry;Tyrolean Rebel Infantry Brigade;;Tiroler Rebellen-Infanterieregiment;;;;;;;;;;;x
+SerbianRebelInfantry;Serbian Rebel Infantry Brigade;;Serbisches Rebellen-Infanterieregiment;;;;;;;;;;;x
+SerbianRebelCavalry;Serbian Rebel Cavalry Brigade;;Serbisches Rebellen-Kavallerieregiment;;;;;;;;;;;x
+LudditeRebelInfantry;Luddite Rebel Infantry Brigade;;Luddit-Rebellen-Infanterieregiment ;;;;;;;;;;;x
+LudditeRebelCavalry;Luddite Rebel Cavalry Brigade;;Luddit-Rebellen-Kavallerieregiment;;;;;;;;;;;x
+TERRAIN_ATTACK;Attacker modifier:\n;;Angreifer-Modifikator:\n;;;;;;;;;;;x
+TERRAIN_DEFENSE;Defender modifier:\n;;Verteidiger-Modifikator:\n;;;;;;;;;;;x
+LEDGER_PRESTIGE;Prestige;;Prestige;;;;;;;;;;;x
+CMV_TIME;Time;;Zeit;;;;;;;;;;;x
+ENGLISH_SUPPORTED;Yes;Oui;Ja;;Sí;;;;;;;;;x
+GERMAN_SUPPORTED;Yes;Oui;Ja;;Sí;;;;;;;;;x
+BAV_Troop_Transport_1805;Troop Transport Squadron;Transport de Troupes;Truppentransport-Geschwader;;;;;;;;;;;x
+BAV_Galley_1805;Galley Squadron;Galères;Galeeren-Geschwader;;;;;;;;;;;x
+BAV_Frigate_1805;Frigate Squadron;Frégates;Fregatten-Geschwader;;;;;;;;;;;x
+BAV_Second_Rank_SOL_1805;Second-Rate Ship of the Line squadron;Navires de Ligne de Second Rang;Linienschiff-Geschwader, 2. Klasse;;;;;;;;;;;x
+BAV_First_Rank_SOL_1805;First-Rate Ship of the Line squadron;Navires de Ligne de Premier Rang;Linienschiff-Geschwader, 1. Klasse;;;;;;;;;;;x
+imperial_government_desc;The highest government rank, the King of Kings, used for a large sprawling group of states that are united and ruled by a single individual.;;Der höchste Regierungs-Rang, der König der Könige, wird für eine weitgefächerte Gruppierung von Staaten verwendet, die sich verbündet haben und von einem einzelnen Individuum regiert werden. ;;;;;;;;;x;;
+ALG_Supply_Brigade_1805;Supply Brigade;;Versorgungstrupp;;;;;;;;;;;x
+ALG_Artillery_Brigade_1805;Artillery Brigade;;Artillerieregiment;;;;;;;;;;;x
+TRI_Supply_Brigade_1805;Supply Brigade;;Versorgungstrupp;;;;;;;;;;;x
+TRI_Artillery_Brigade_1805;Artillery Brigade;;Artillerieregiment;;;;;;;;;;;x
+MAR_Supply_Brigade_1805;Supply Brigade;;Versorgungstrupp;;;;;;;;;;;x
+MAR_Artillery_Brigade_1805;Artillery Brigade;;Artillerieregiment;;;;;;;;;;;x
+TUN_Supply_Brigade_1805;Supply Brigade;;Versorgungstrupp;;;;;;;;;;;x
+TUN_Artillery_Brigade_1805;Artillery Brigade;;Artillerieregiment;;;;;;;;;;;x
+TOS_Supply_Brigade_1805;Supply Brigade;;Versorgungstrupp;;;;;;;;;;;x
+TOS_Artillery_Brigade_1805;Artillery Brigade;;Artillerieregiment;;;;;;;;;;;x
+PAP_Supply_Brigade_1805;Supply Brigade;;Versorgungstrupp;;;;;;;;;;;x
+PAP_Artillery_Brigade_1805;Artillery Brigade;;Artillerieregiment;;;;;;;;;;;x
+MEK_Supply_Brigade_1805;Supply Brigade;;Versorgungstrupp;;;;;;;;;;;x
+MEK_Artillery_Brigade_1805;Artillery Brigade;;Artillerieregiment;;;;;;;;;;;x
+OLD_Supply_Brigade_1805;Supply Brigade;;Versorgungstrupp;;;;;;;;;;;x
+OLD_Artillery_Brigade_1805;Artillery Brigade;;Artillerieregiment;;;;;;;;;;;x
+SM_LANGUAGE;Language;Langue;Sprache;;Idioma;;;;;;;;;x
+ENGLISH;English;Anglais;Englisch;;Inglés;;;;;;;;;x
+GERMAN;German;Allemand;Deutsch;;Alemán;;;;;;;;;x
+CALLDESC_TRUCE;$WHO$ has a truce with $ENEMY$;;$WHO$ hat mit $ENEMY$ eine Waffenruhe;;;;;;;;;;;x
+TUT_LEDGER_COALITIONS_INFO_TEXT1;Coalitions can be created by Land or Naval Dominant countries, such as Great Britain and France at the start of the game, or against a Land or Naval Dominant country. A non-dominant country declaring war upon a Land or Naval Dominant country automatically creates a Coalition against the Land or Naval Dominant country. When a Coalition is created against a Land or Naval Dominant country, the leader of the coalition is able to invite coalition members to join its war against the Land or Naval Dominant country. If a coalition is created by a non-dominant country which then invites a Dominant country, the Dominant country will take control of the coalition and become the coalition leader. If a Land or Naval Dominant country loses its dominance when a coalition against it exists, the coalition will become inactive and no more members can be invited. When you invite any country to join your coalition you both agree to help each other when fighting a war against the coalition's target. If you or any of your coalition members do not join another coalition member's war the one who do not join will leave the coalition. If you make peace with the coalition target, you will leave the coalition. When a coalition leader make peace with the coalition target, the coalition is disbanded. Only the coalition leader can invite other countries to their coalition, at the start of the game Great Britain and France each lead a coalition. The ledger page Coalitions show you which country is in which coalition. Click on any flag in this view to open the Diplomacy view for that country.;;Bündnisse können von Ländern mit Vormachtstellung zu Land oder zur See, wie Großbritannien und Frankreich zu Beginn des Spiels, oder gegen sie, geschlossen werden. Wenn ein Land ohne Vormachtstellung einem Land mit Vormachtstellung zu Land oder zur See den Krieg erklärt, so schließt es automatisch ein Bündnis gegen dieses Land. Wenn ein Bündnis gegen ein Land mit Vormachtstellung zu Land oder zur See geschlossen wird, so kann der Bündnis-Führer weitere Bündnispartner zum Krieg gegen dieses Land einladen. Wenn das Bündnis durch ein Land ohne Vormachtstellung geschlossen wurde und anschließend ein Land mit Vormachtstellung einlädt, so übernimmt das Land mit Vormachtstellung die Bündnisleitung und wird dessen Anführer. Verliert ein Land seine Vormachtstellung zu Land oder zur See, während ein Bündnis gegen dieses existiert, so wird das Bündnis inaktiv und es können keine neuen Mitglieder eingeladen werden. Wenn Ihr ein Land zu Eurem Bündnis einladet, so stimmen beide Seiten zu, sich gegenseitig im Krieg gegen den Bündnisgegner zu unterstützen. Solltet Ihr oder ein anderes Mitglied dem Krieg gegen einen Bündnisgegner nicht beitreten, so verlasst Ihr oder das nicht helfende Mitglied das Bündnis. Wenn Ihr mit dem Bündnisgegner Frieden schließt, verlasst Ihr das Bündnis. Wenn Euer Bündnis-Führer Frieden mit dem Bündnisgegner schließt, so wird das Bündnis aufgelöst. Nur der Bündnis-Führer kann weitere Länder in ein Bündnis einladen. Zu Beginn des Spiels führen Großbritannien und Frankreich jeweils ein Bündnis an. Die Statistik-Seite zu den Bündnissen zeigt Euch, welches Land sich in welchem Bündnis befindet. Klickt auf eine der Flaggen in dieser Ansicht, um die Diplomatie-Übersicht für dieses Land zu öffnen.;;;;;;;;;;;x
+TUT_DIPLOMACY_ACTIONS_ALL_ACTIONS_INFO2_TEXT4;§GInvite to Coalition§!: Coalitions can only be created against the Land Dominant or the Naval Dominant country. You can create a Coalition if you are the other Dominant country, or if you are at war with one of the Dominant countries. A Coalition is created when a Dominant country invites another country to a coalition. When a Coalition is created against a Land or Naval Dominant country, the leader of the coalition is able to invite coalition members to join its war against the Land or Naval Dominant country. The coalition leader can be changed by diplomatic actions, but the AI will always have a Dominant country or one of the Major Powers as leader of a coalition. If a Land or Naval Dominant country loses its dominance when a coalition against it exists, the coalition will become inactive and no more members can be invited. When you invite any country to join your coalition you both agree to help each other when fighting a war against the coalition's target. If you or any of your coalition members do not join another coalition member's war the one who do not join will leave the coalition. If you make peace with the coalition target, you will leave the coalition. When a coalition leader make peace with the coalition target, the coalition is disbanded. Only the coalition leader can invite other countries to their coalition. The ledger page Coalitions show you which country is in which coalition.;;§GEinladung zu einem Bündnis§!: Bündnisse können nur gegen Länder mit der Vormachtstellung zu Land oder zur See geschlossen werden. Ihr könnt ein Bündnis schließen, wenn Ihr das andere Land mit Vormachtstellung seid, oder wenn Ihr Euch mit einem Land mit Vormachtstellung im Krieg befindet. Ein Bündnis wird geschlossen, wenn ein Land mit Vormachtstellung ein anderes Land zu diesem einlädt. Wenn ein Bündnis gegen ein Land mit Vormachtstellung zu Land oder zur See geschlossen wird, so kann der Bündnis-Führer weitere Bündnispartner dazu einladen, einem Krieg gegen das Land beizutreten. Der Bündnis-Führer kann durch diplomatische Aktionen geändert werden, die KI wird jedoch immer ein Land mit Vormachtstellung oder eine der Großmächte als Bündnis-Führer haben. Verliert ein Land seine Vormachtstellung zu Land oder zur See, während ein Bündnis gegen dieses exisitiert, so wird das Bündnis inaktiv und es können keine neuen Mitglieder eingeladen werden. Wenn Ihr ein Land zu Eurem Bündnis einladet, so stimmen beide Seiten zu, sich gegenseitig im Krieg gegen den Bündnisgegner zu unterstützen. Solltet Ihr oder ein anderes Mitglied dem Krieg gegen einen Bündnisgegner nicht beitreten, so verlasst Ihr oder das nicht helfende Mitglied das Bündnis. Wenn Ihr mit dem Bündnisgegner Frieden schließt, verlasst Ihr das Bündnis. Wenn ein Bündnis-Führer Frieden mit dem Bündnisgegner schließt, so wird das Bündnis aufgelöst. Nur der Bündnis-Führer kann weitere Länder in ein Bündnis einladen. Die Statistik-Seite zu den Bündnissen zeigt Euch, welches Land sich in welchem Bündnis befindet.;;;;;;;;;;;x
+DETACH_SLOWEST_TIP;Detach the slowest brigades. The Army can not move faster than the slowest brigades.\nThis army's speed is now $SPEED$, and will be $NEWSPEED$ after detaching.\nThese brigades will be detached:\n$BRIGADES$;;Gliedert die langsamsten Regimenter aus. Eine Armee ist nur so schnell wie ihre langsamsten Regimenter.\nDie Geschwindigkeit dieser Armee beträgt zur Zeit $SPEED$, und $NEWSPEED$ nach der Ausgliederung.\nFolgende Regimenter werden ausgegliedert:\n$BRIGADES$;;;;;;;;;;;x
+DETACH_SLOWEST_TIP_EQUAL;All brigades have the same speed;;Alle Regimenter haben dieselbe Geschwindigkeit;;;;;;;;;;;x
+SPLIT_HALF_TIP;Split the army in half.;;Teilt die Armee in zwei Teile auf.;;;;;;;;;;;x
+ONE_MORE_YEAR;One more year!;;Ein weiteres Jahr!;;;;;;;;;;;x
+UNIT_REPLACE_DISABLED;Replacements is disabled for this unit.;;Ersatz ist für diese Einheit deaktiviert.;;;;;;;;;;;x
+UNIT_REPLACE_NOT_ALLOWED;Unit is cut off and can not recieve replacements.;;Die Einheit ist vom Nachschub abgeschnitten und kann keinen Ersatz erhalten.;;;;;;;;;;;x
+SV_ARMY_TOO_SMALL;Attacking forces are too small to do any significant damage. The attackers need to be twice the number of effective defenders and a level $FORT$ fort can have a maxmum of §Y$MAX$§! effective defenders.;;Die angreifende Streitmacht ist zu klein, um signifikanten Schaden anzurichten. Die Angreifer brauchen, verglichen mit den effektiven Verteidigern, die doppelte Mannstärke und eine Festung der Stufe $FORT$ kann maximal §Y$MAX$§! effektive Verteidiger beherbergen.;;;;;;;;;;;x
+SV_SIEGETOWN;$FORT_TYPE$ siege day: $DAYS_OF_SIEGE$;;$FORT_TYPE$ Belagerungstag: $DAYS_OF_SIEGE$;;;;;;;;;;;x
+SV_UNTIL_COMBATEVENT;(Next event in $DAYS$ days);;(Nächstes Ereignis in $DAYS$ Tagen.);;;;;;;;;;;x
+LEDGER_WARS_ORIGINAL_ATTACKER_TIP;§Y$COUNTRY$§! was the original attacker in this war.;;§Y$COUNTRY$§! war der ursprüngliche Angreifer in diesem Krieg.;;;;;;;;;;;x
+LEDGER_WARS_ORIGINAL_DEFENDER_TIP;§Y$COUNTRY$§! was the original defender in this war.;;§Y$COUNTRY$§! war der ursprüngliche Verteidiger in diesem Krieg.;;;;;;;;;;;x
+GALLEY_INLAND_DICE_BONUS;Galley: $VALUE$ to combat dice.;;Galeere: $VALUE$ auf das Kampf-Würfelergebnis.;;;;;;;;;x;;
+spanish_american_holdings;Spanish-American Holdings;;Spanisch-Amerikanische Anteile;;;;;;;;;x;;
+desc_spanish_american_holdings;Spanish holdings in America gives an abundance of wealth to Spain.;;Spanische Anteile in Amerika bringen Spanien einen Überfluss an Reichtum.;;;;;;;;;x;;
+british_indian_holdings;British India Holdings;;Britisch-Indische Anteile;;;;;;;;;x;;
+desc_british_indian_holdings;British holdings in India gives an abundance of wealth to Great Britain.;;Britsche Anteile in Indien geben Großbritannien einen Überfluss an Reichtum.;;;;;;;;;x;;
+EVTNAME60105;Spanish Holdings in America;;Spanische Anteile in Amerika;;;;;;;;;x;;
+EVTDESC60105;From 1492 to 1898, beginning with the 1492 arrival of Christopher Columbus, colonial expansion in America under the crown of Castile was motivated by trade and the spread of the Christian faith through indigenous conversions. Spanish conquistadores initiated the colonisation, while the Monarchy of Spain through its administrators and missionaries developed the colonisation. The wealth and tradegoods brought to Spain by the colonisation of America has made the country wealthier than ever.;;Von 1492 bis 1898, beginnend mit der Ankunft von Christoph Kolumbus 1492, wurde die koloniale Ausweitung in Amerika, unter der Krone von Kastilien, durch Handel und die Verbreitung des christlichen Glaubens unter den Einheimischen vorangetrieben. Spanische Konquistadoren initiierten die Kolonialisierung, während die spanische Monarchie sie mittels Verwaltung und Missionaren ausbaute. Der Reichtum und die Handelsgüter, die Spanien durch die Kolonialisierung von Amerika erlangte, machten das Land reicher als jemals zuvor.;;;;;;;;;x;;
+EVTNAME20420;British India;;Britisch-Indien;;;;;;;;;x;;
+EVTDESC20420;The East India Company traded in Bengal on the sufferance of the native powers from the early 17th century to the middle of the 18th century. The next hundred years, the Company ruled in India, sharing its sovereignty with the Crown but gradually losing its mercantile privileges. The wealth and tradegoods brought to Great Britain by the East India Company has made the country wealthier than ever.;;Die Britische Ostindien-Kompanie handelte zu Lasten der Einheimischen in Bengalen im Zeitraum des frühen 17. Jahrhunderts bis Mitte des 18. Jahrhunderts. Für die nächsten hundert Jahre regierte die Kompanie in Indien und teilte ihren Einfluss mit der britischen Krone, verlor jedoch langsam ihre Handels-Privilegien. Der Reichtum und die Handelsgüter, die die Kompanie nach Großbritannien brachte, machten das Land reicher als jemals zuvor.;;;;;;;;;x;;
+EVTOPTOK;Ok;;OK;;;;;;;;;x;;
+REMOVE_LEADER_EFFECT;§Y$NAME$§! will be removed as §Y$TITLE$§!.;;§Y$NAME$§! verliert seine Stellung als §Y$TITLE$§!.;;;;;;;;;x;;
+ADD_LEADER_EFFECT;§Y$NAME$§! will become available as §Y$TITLE$§!.;;§Y$NAME$§! wird als §Y$TITLE$§! verfügbar.;;;;;;;;;x;;
+SUBUN_TOTAL_NAVAL_TT;This squadron is at §Y$CURR$§! strength.;;Dieses Geschwader hat eine Stärke von §Y$CURR$§!.;;;;;;;;;;;x
+BANKLOAN_4;This costs us §R$PRESTIGE$§! based on an interest rate of $INTEREST$;;Dies wird uns §R$PRESTIGE$§! kosten, basierend auf einer Zinsrate von $INTEREST$;;;;;;;;;;;x
+CV_BUDGET_TOOLTIP_TAKE_LOAN_DELAYED;Loan §Y$AMOUNT$§!¤ with §Y$INTEREST$§!% interest. This will cost us §R$PRESTIGE$§! prestige, based on our interest rate.;;Nehmt ein Darlehen über §Y$AMOUNT$§!¤ auf, mit einem Darlehenszins von §Y$INTEREST$§!%. Dies wird uns §R$PRESTIGE$§! Prestige kosten, basierend auf der Zinsrate.;;;;;;;;;;;x
+NAVY_COMBAT_TOOLTIP_1;$NAME$ is a §Y$TYPE$§!\nThe morale is at §Y$MORALE$%§! of max, and at $SHIPS$ strength.\n$TARGET$;;$NAME$ ist vom Typ §Y$TYPE$§!\nDie Moral beträgt §Y$MORALE$%§! des Maximums, mit $SHIPS$ Schiffs-Stärke.\n$TARGET$;;;;;;;;;;;x
+STOP_HIDE_IN_FORTRESS_HIDDEN;Your army is currently hiding in the local fortress.\nDisable to exit and charge the enemy.;;Eure Truppen befinden sich zur Zeit in der lokalen Festung.\nDeaktiviert diese Option, um den Feind anzugreifen.;;;;;;;;;x;;
+HIDE_IN_FORTRESS;Your army will stand and fight any enemy that might appear.;;Eure Truppen werden die Stellung halten und jeden Gegner in Sichtweite angreifen.;;;;;;;;;x;;
+STOP_HIDE_IN_FORTRESS;Your army will retreat into the local fortress on enemy encounter.;;Eure Truppen werden bei Feindkontakt Schutz in der lokalen Festung suchen.;;;;;;;;;x;;
+GARRISON_ALWAYS_IN_FORT;Garrison units always hides in the local fortress (if any).;;Die Einheiten dieser Garnison werden stets in der lokalen Festung Schutz suchen (sofern eine Festung existiert).;;;;;;;;;x;;
+NAVAL_COMBAT_LEADER;The difference in leader skill modifies attack by: $DATA$;;Die veränderten Anführer-Fertigkeiten modifizieren den Angriff um: $DATA$;;;;;;;;;x;;
+LANDBATTLEOVER_OTHER_SETUP;When another nation's land battle is over;;Wenn eine andere Nation ihren Kampf zu Land beendet;;;;;;;;;x;;
+BROKEN_BRIGADE;This brigade is broken and will only reinforce in provinces you own and control.;;Dieses Regiment ist zerschlagen und wird nur in den Provinzen Verstärkung erhalten, die Euch gehören und die Ihr kontrolliert.;;;;;;;;;x;;
+BROKEN_BRIGADES;§YThe following brigades have been broken and can only reinforce in provinces you own and control:§!;;§YDie folgenden Regimenter sind zerschlagen und können nur in Provinzen Verstärkung erhalten, die Euch gehören und die Ihr kontrolliert:§!;;;;;;;;;x;;
+INTERCEPT_MAP_TEXT;§YIntercept§!;;§YAbfangen§!;;;;;;;;;x;;
+JOIN_WAR_TRUCE;You have truce with: $LIST$.;;Ihr habt eine Waffenruhe mit: $LIST$.;;;;;;;;;x;;
+CITIES_ONLY;Build in Cities only;;Kann nur in Städten gebaut werden;;;;;;;;;x;;
+LEDGER_ARMY_QUALITY;Army Quality;;Landtruppen-Qualität;;;;;;;;;x;;
+LEDGER_NAVY_QUALITY;Navy Quality;;Flotten-Qualität;;;;;;;;;x;;
+OL_RALLYPOINT;Rally point enabled at §Y$NAME$§!.;;Sammelpunkt aktiviert bei §Y$NAME$§!.;;;;;;;;;x;;
+RALLYPOINT_REMOVE_ALL;Right-click to remove all rally points in this category.;;Entfernt mit Rechtsklick alle Sammelpunkte in dieser Kategorie.;;;;;;;;;x;;
+DIPREL_DECREASE;Decrease relations;;Beziehungen verschlechtern;;;;;;;;;x;;
+DIPREL_INCREASE;Increase relations;;Beziehungen verbessern;;;;;;;;;x;;
+INCREASE_RELATION_DESC;Increase your relations with another country by $CHANGE$ a month for $MONTHS$ months at a cost of $COST$ prestige.;;Verbessert Eure Beziehungen mit einem anderen Land um $CHANGE$ pro Monat für einen Zeitraum von $MONTHS$ Monaten, zum Preis von $COST$ Prestige.;;;;;;;;;;;x
+INCREASE_RELATION_REQUEST;Do you want to increase your relations with $COUNTRY$ by $CHANGE$ a month for $MONTHS$ months at a cost of $COST$ prestige?;;Möchtet Ihr Eure Beziehungen mit $COUNTRY$ um $CHANGE$ pro Monat für $MONTHS$ Monate zum Preis von $COST$ Prestige verbessern?;;;;;;;;;;;x
+DECREASE_RELATION_DESC;Sabotage the relation of $TARGET$ and another country by $CHANGE$ a month for $MONTHS$ months at a cost of $COST$ prestige.;;Sabotiert die Beziehungen zwischen $TARGET$ und einem anderen Land um $CHANGE$ pro Monat für $MONTHS$ Monate zum Preis von $COST$ Prestige.;;;;;;;;;;;x
+DECREASE_RELATION_REQUEST;Do you want to sabotage the relation of $TARGET$ and $COUNTRY$ by $CHANGE$ a month for $MONTHS$ months at a cost of $COST$ prestige?;;Möchtet Ihr die Beziehungen zwischen $TARGET$ und $COUNTRY$ um $CHANGE$ pro Monat für $MONTHS$ Monate zum Preis von $COST$ Prestige sabotieren?;;;;;;;;;;;x
+RALLYPOINT_MERGE;Merging units at arrival.;;Einheiten werden bei Ankunft zusammengelegt.;;;;;;;;;x;;
+RALLYPOINTS_LAND;Land Rally Points;;Land-Sammelpunkte;;;;;;;;;x;;
+RALLYPOINTS_NAVAL;Naval Rally Points;;Flotten-Sammelpunkte;;;;;;;;;x;;
+RALLYPOINT_LAND;Land Rally Point;;Land-Sammelpunkt;;;;;;;;;x;;
+RALLYPOINT_NAVAL;Naval Rally Point;;Flotten-Sammelpunkt;;;;;;;;;x;;
+SIEGE_ARTILLERY_BONUS;There's enough artillery for the attackers to get a siege bonus and be able to inflict breaches on the fort, more artillery gives a higher bonus. Breaches makes assaults less costly for the attacker.;;Dank ausreichender Artillerie werden die Angreifer einen Belagerungsbonus erhalten und in der Lage sein, die Festung zu durchbrechen, je mehr Artillerie vorhanden ist, desto höher der Bonus. Durchbrüche in Festungen verringern die Angriffskosten für den Angreifer.;;;;;;;;;x;;
+NEED_MORE_ARTILLERY;The attacker needs more artillery to get a bonus and be able to inflict breaches. §Y$NEEDED$§! artillery in total is needed.;;Der Angreifer benötigt mehr Artillerie, um einen Bonus zu erlangen und Festungen durchbrechen zu können. Es wird insgesamt eine Artillerie von §Y$NEEDED$§! benötigt.;;;;;;;;;x;;
+MAPMODE_PLAYERS;§YPlayers§!;§YJoueurs§!;§YSpieler§!;;§YJugadores§!;;;;;;;;;x
+OUTLINER_BUTTON;Outliner;Raccourcis;Outliner;;Breviario;Menu rapido;;;;;;;;x
+OUTLINER_BUTTON_DELAYED;§YRight-click to open outliner category configuration§!;;§YRechtsklicken, um Kategorieeinstellungen des Editors öffnen§!;;;;;;;;;;;x
+NAVAL_TARGET;Currently engaging $TARGET$;;Befindet sich derzeit im Kampf mit $TARGET$;;;;;;;;;;;x

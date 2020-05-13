@@ -1,0 +1,16 @@
+CODE;ENGLISH;FRENCH;GERMAN;POLSKI;SPANISH;ITALIAN;SWEDISH;CZECH;HUNGARIAN;DUTCH;PORTUGESE;RUSSIAN;FINNISH;x
+JOIN_WAR_WARS;You're already at war with: $LIST$.;;Ihr befindet Euch im Krieg mit: $LIST$.;;;;;;;;;x;;
+UNIT_REPLACE_RATE;Monthly Replacement rate: §Y$DATA$%§!\n;;Monatliche Ersatz-Rate: §Y$DATA$%§!\n;;;;;;;;;;;x
+COALITION_DISBAND_WE_LEADER_HEADER;Coalition Disbanded!;;Bündnis aufgelöst!;;;;;;;;;;;x
+COALITION_DISBAND_WE_LEADER_1;Our Marshal reports:;;Unser Marschall berichtet:;;;;;;;;;;;x
+ATTR_SAFE_RANGE;A Fleet in range of supply ships will not take any attrition.;;Eine Flotte im Einflussbereich von Versorgungsschiffen baut keine Zermürbung auf.;;;;;;;;;;;x
+north_african;North African;;Nordafrikanisch;;;;;;;;;;;x
+SM_BATTLESOUND;Battle sounds;;Kampfgeräusche;;;;;;;;;;;x
+UV_SINGLEUNIT_SHOW;Show army flanks.;;Armee-Flanken zeigen.;;;;;;;;;;;x
+UV_SINGLEUNIT_HIDE;Hide army flanks.;;Armee-Flanken ausblenden.;;;;;;;;;;;x
+LOW_MORALE_MOVE;This unit has a morale lower than §R$MIN$§! and cannot enter enemy controlled territory.;;Diese Einheit hat eine niedrigere Moral als §R$MIN$§! und kann daher feindliche Gebiete nicht betreten.;;;;;;;;;;;x
+SUPPLY_NEUTRAL;Neutral:;;Neutral:;;;;;;;;;;;x
+ISLAND_FORT_LEVEL;Island Fortress Level;;Insel-Festungsstufe;;;;;;;;;;;x
+ISLAND_FORT_DESC;This fortress is constructed out at sea which makes it nearly impossible to take without an navy to blockade it or a cold winter allowing safe passage over the ice.;;Diese Festung wurde weit draußen auf See errichtet und es ist fast unmöglich, sie ohne eine Marineblockade oder einen kalten Winter, der eine Passage über das Eis erlaubt, einzunehmen.;;;;;;;;;;;x
+ISLAND_FORT_WINTER;The cold winter weather have frozen the water allowing troops march across the ice.;;Der kalte Winter hat das Wasser gefroren und Truppen können über das Eis marschieren.;;;;;;;;;;;x
+ISLAND_FORT_MUST_HAVE_BLOCKADE;§RThis fort is built in a way that makes it impossible to assault without having the province under blockade or a cold winter allowing safe passage over the ice.§!;;§RDiese Festung wurde auf eine Weise errichtet, die einen Angriff ohne Blockade oder einen kalten Winter, der eine Passage über das Eis erlaubt, unmöglich macht.§!;;;;;;;;;;;x

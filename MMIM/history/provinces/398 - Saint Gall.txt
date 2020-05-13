@@ -1,0 +1,20 @@
+#398 - Saint Gall
+
+owner = CHE
+
+controller = CHE
+
+add_core = CHE
+
+transport2 = yes
+
+development2 = yes
+
+port_income = 0
+
+victory_value = 0
+
+# = 4
+
+culture = suisse
+

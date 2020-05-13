@@ -1,0 +1,298 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new forms of governemnts, make sure they are uniquely named.
+
+# Uses all 'modifiers' possible thats exported as a Modifier.
+
+
+
+despotic_monarchy = {
+	monarchy = yes
+	
+	valid_for_new_country = yes
+	
+	allowed_conversion = {
+		absolute_monarchy = 0.5	
+		enlightened_despotism = 1.0
+		constitutional_monarchy = 1.0
+		feudal_monarchy = 2.0
+	}
+	
+	#malus
+	global_revolt_risk = 1
+	global_tax_modifier = -0.20
+
+	#bonus
+	max_war_exhaustion = -10
+	land_maintenance_modifier = -0.25
+
+	# Modifiers (mostly PER in NCP2)
+ 
+
+}
+
+feudal_monarchy = {
+	monarchy = yes
+	
+	valid_for_new_country = yes
+	
+	allowed_conversion = {
+		despotic_monarchy = 0.5
+		absolute_monarchy = 1.0
+	}
+
+	#malus
+	global_revolt_risk = 1.0
+	global_tax_modifier = -0.30
+	naval_maintenance_modifier = 0.25 
+	
+	#bonus
+	land_maintenance_modifier = -0.25
+	global_manpower_modifier = 0.15
+
+	# Modifiers (mostly TUR in NCP2)
+
+}
+
+
+absolute_monarchy = {
+	monarchy = yes
+	
+	valid_for_new_country = yes
+	
+	allowed_conversion = {
+		enlightened_despotism = 0.5
+		despotic_monarchy = 2.0
+	}
+	
+	#malus
+	global_manpower_modifier = -0.25
+	global_regiment_cost = 0.05
+	global_revolt_risk = 1.0
+
+
+	#bonus
+	diplomats = 1.75
+
+	# Modifiers (mostly SPA, POR and NAP in NCP2)
+
+	# Partisan spirit
+	militia_attack = 0.10	
+	militia_defense = 0.20	
+	
+}
+
+
+enlightened_despotism = {
+	monarchy = yes
+	
+	valid_for_new_country = yes
+	
+	allowed_conversion = {
+		absolute_monarchy = 2.0
+	}
+
+	#malus
+	global_manpower_modifier = -0.05
+
+
+	#bonus
+	diplomats = 1.50
+	war_exhaustion = -0.05
+
+	# Modifiers (mostly AUS, PRU and Germanic/Scandinavian nations in NCP2)
+
+	# Landwehr
+	militia_attack = 0.10
+	militia_defense = 0.10
+
+}
+
+
+constitutional_monarchy = {
+	monarchy = yes
+	
+	valid_for_new_country = yes
+	
+	allowed_conversion = {
+		constitutional_republic = 2.0
+	}
+	
+	#bonus
+	global_tax_modifier = 0.10
+	diplomats = 1.25
+	naval_maintenance_modifier = -0.25 
+	
+	#malus
+	global_regiment_cost = 0.05
+	global_manpower_modifier = -0.15
+
+
+	#Modifiers (mostly GBR only in NCP2)
+
+	#Defensive minded
+	modifier_defense = 0.10	
+
+	# Defensive Infantry
+	guard_defense = 0.10	
+	infantry_defense = 0.10	
+
+	# British Infantry Training and Resilience
+	guard_attack = 0.20	
+	infantry_attack = 0.10
+	
+	land_morale = 0.10
+
+	# Naval Aggressivity
+	big_ship_attack = 0.10
+	light_ship_attack = 0.10
+
+	naval_morale = 0.10
+}
+
+
+imperial_government = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	
+	allowed_conversion = {
+		absolute_monarchy = 0.5
+		enlightened_despotism = 1.0
+		constitutional_monarchy = 1.0
+		feudal_monarchy = 2.0
+	}
+
+	#malus
+	global_tax_modifier = -0.25
+	global_revolt_risk = 1.0
+
+	
+	#bonus
+	global_manpower_modifier = 0.25
+	global_regiment_cost = -0.05
+	diplomats = 1.10
+	land_morale = 0.25
+
+	#Modifiers (mostly RUS in NCP2)
+
+	#Defensive minded
+	modifier_defense = 0.10	
+}
+
+constitutional_republic = {
+	republic = yes
+	
+	valid_for_new_country = yes
+	
+	allowed_conversion = {
+		constitutional_monarchy = 2.0
+	}
+	
+	republican_name = yes
+
+	#bonus
+	land_morale = 0.25
+	global_tax_modifier = 0.10
+	militia_cost = -0.5
+
+	militia_build_time = -0.5
+	
+	#malus
+	global_regiment_cost = 0.10
+	global_manpower_modifier = -0.25
+
+
+	# Modifiers (mostly USA in NCP2)
+
+	# Militia expertise
+	militia_attack = 0.20
+	militia_defense = 0.20
+
+}
+
+
+papal_government = {
+	monarchy = yes
+
+	valid_for_new_country = no
+	
+	allowed_conversion = {
+	}
+
+	#bonus
+	diplomats = 2.00
+
+}
+
+
+revolutionary_republic = {
+	republic = yes
+	
+	valid_for_new_country = yes
+	
+	allowed_conversion = {
+		revolutionary_empire = 1.0
+		constitutional_republic = 2.0
+	}
+	republican_name = yes
+
+	#bonus
+	global_manpower_modifier = 0.25
+	militia_cost = -0.50
+	militia_build_time = -0.50
+	land_morale = 0.25
+
+
+	#malus
+	global_regiment_cost = 0.05
+ 
+
+	# Modifiers (mostly French satellites in NCP2)
+
+	#Offensive minded
+	modifier_offense = 0.10	
+
+	# Better Militias
+	militia_attack = 0.10
+	militia_defense = 0.10
+
+
+}
+
+revolutionary_empire = {
+	monarchy = yes
+	
+	valid_for_new_country = no
+	
+	allowed_conversion = {
+		revolutionary_republic = 2.0
+		constitutional_republic = 2.0
+		constitutional_monarchy = 2.0
+	}
+	
+	#bonus
+	militia_cost = -0.50
+	militia_build_time = -0.30
+	land_morale = 0.25
+
+
+	#malus
+	global_regiment_cost = 0.05
+    diplomats = -1.00
+
+	# Modifiers (mostly FRA in NCP2)
+
+	#Offensive minded
+	modifier_offense = 0.10	
+
+	# Better movement & foraging
+	land_attrition = -0.20	
+ 
+	# Faster movement overall
+	land_speed = 0.10	
+	
+}
+
+
+ 
+
