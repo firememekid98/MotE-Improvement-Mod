@@ -1,0 +1,29 @@
+MIM changelog v1.1
+
+core gameplay changes
+	- kill factor changed to 0.22, from 0.25
+	- balanced british naval bonuses
+	- snowballing reduced
+		- increased manpower and tax penalty from wrong culture
+		- reduced years of nationalism to 10 from 30
+		- increased penalty from nationalism
+		- 5% extra manpower and tax on cores
+	
+graphical changes
+	- fixed russia flag
+	- fixed tunisia flag
+	- changed austria flag
+	
+map changes
+	- added impassable terrain to mountain ranges
+	- fixed swiss borders
+
+sound
+	- replaced battle sounds
+
+government changes
+	- removed manpower penalty from revolutionary empire government
+	- fixed code typo for despotic monarchy government modifier
+
+other
+	- fixed various typos
