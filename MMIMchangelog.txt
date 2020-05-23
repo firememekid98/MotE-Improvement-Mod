@@ -42,3 +42,12 @@ bugfixes
 	
 map changes
 	- fixed portugal borders
+
+graphical
+	- fixed portugal flag
+	- fixed french flag
+	- fixed morocco flag
+	
+other
+	- fixed some typos
+	- fixed country names for uk, french empire, two sicilies, russian empire, ottoman empire
