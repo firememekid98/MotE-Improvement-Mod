@@ -1,0 +1,28 @@
+#87 - Lagos
+
+owner = POR
+
+controller = POR
+
+add_core = POR
+
+transport3 = yes
+
+development1 = yes
+
+port_income = 6
+
+victory_value = 0
+
+base_tax = 2.0
+
+manpower = 20
+
+# = 3
+
+culture = portuguese
+
+city = yes
+
+1805.1.1 = { majorport = yes }
+

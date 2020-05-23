@@ -1169,17 +1169,17 @@ ADMIRAL;Admiral;L'amiral;Admiral;Admira³;Almirante;Ammiraglio;Admirális;Admirál;
 ##################################################;;;;;;;;;;;;;;x
 # Nations Names and Adjectives;;;# Nationen und Bezeichnungen;;;;;;;;;;;x
 ##################################################;;;;;;;;;;;;;;x
-FRA;France;France;Frankreich;;Francia;;;;;;;;;x
+FRA;French Empire;France;Frankreich;;Francia;;;;;;;;;x
 FRA_SHORT;France;France;Frankreich;;Francia;;;;;;;;;x
 FRA_ADJ;French;français;französisch;;francés;;;;;;;;;x
 FRA_TXT;In revenge for her losses in the Seven Years' War, France was one of the first countries to support the American colonists in their war against the British crown. The effort was successful but the financial costs stretched an already fragile state and the result was the French Revolution of 1789. The revolution's ability to mobilise manpower in a way that traditional states could not, coupled with Europe's largest population, turned an already formidable France into an unstoppable power. The resulting wars gave France control of the Low Countries and Italy. The Treaty of Amiens gave us a year's rest but the new Emperor remains discontent and seeks new conquests. As the Eagle prepares to soar, upon what unsuspecting prey will it swoop?;;Aufgrund der schmerzlichen Verluste, die es im Siebenjährigen Krieg erlitten hatte, war Frankreich eine der ersten Nationen, die den Krieg der amerikanischen Kolonien gegen die britische Krone unterstützte. Dieses Unterfangen war von Erfolg gekrönt, doch die Kosten belasteten einen bereits angeschlagenen Staat noch mehr und resultierte 1789 in die Französische Revolution. Die Möglichkeit der Revolution, Mannstärke in einer Art und Weise zu mobilisieren, wie es traditionelle Staaten nicht möglich war, verbunden mit Europas größter Bevölkerung, machten aus dem bereits eindrucksvollen Frankreich eine unaufhaltsame Macht. Durch die darauf folgenden Kriege erlangte Frankreich die Herrschaft über die niederen Ländereien und Italien. Der Friede von Amiens hat uns eine einjährige Ruhepause beschert, aber der neue Kaiser ist weiterhin unzufrieden und sehnt sich nach neuen Eroberungen. Wer wird das nächste Opfer des aufsteigenden Adlers sein?;;;;;;;;;;;x
 FRA_POP;French;Français;französisch;;franceses;;;;;;;;;x
-GBR;Great Britain;Grande Bretagne;Großbritannien;;Gran Bretaña;;;;;;;;;x
+GBR;United Kingdom;Grande Bretagne;Großbritannien;;Gran Bretaña;;;;;;;;;x
 GBR_SHORT;Great Britain;Grande Bretagne;Großbritannien;;Gran Bretaña;;;;;;;;;x
 GBR_ADJ;British;britannique;britisch;;Británico;;;;;;;;;x
 GBR_TXT;Victory in the Seven Years' War turned Britain into the pre-eminent naval power. Not even the loss of the 13 colonies changed that. To remain in this position required just one thing, that the balance of power be maintained on the continent. The forces unleashed by the French Revolution threaten to upset this balance and so it would be Britain who would become France's principal foe. The Treaty of Amiens is now a dead letter and Britain was forced to declare war on France on the 18th of May 1803. This is fight to the finish, and Britain expects that every man will do his duty.;;Durch den Sieg im Siebenjährigen Krieg wurde Großbritannien die vorherrschende Militärmacht zur See. Nicht einmal der Verlust der 13 Kolonien änderte daran etwas. Um diese Position aufrecht erhalten zu können, war es von entscheidender Bedeutung, auf dem Kontinent für ein Gleichgewicht der Kräfte zu sorgen. Die Kräfte, die durch die Französische Revolution freigesetzt wurden, gefährdeten dieses Kräftegleichgewicht, sodass Großbritannien zum erbitterten Feind Frankreichs wurde. Der Frieden von Amiens entpuppte sich als wertlos und am 18. Mai 1803 und am 18. Mai 1803 sah sich Großbritannien gezwungen, Frankreich den Krieg zu erklären. Dies ist ein Kampf bis aufs Messer und Großbritannien erwartet, dass jeder Einzelne seine Pflichten erfüllt.;;;;;;;;;;;x
 GBR_POP;British;Britanniques;britisch;;británicos;;;;;;;;;x
-RUS;Russia;Russie;Russland;;Rusia;;;;;;;;;x
+RUS;Russian Empire;Russie;Russland;;Rusia;;;;;;;;;x
 RUS_SHORT;Russia;Russie;Russland;;Rusia;;;;;;;;;x
 RUS_ADJ;Russian;russe;russisch;;ruso;;;;;;;;;x
 RUS_TXT;Since the reign of Peter the Great Russia has been transformed, from minor backward state on the fringes of Europe to a Great Power ruling vast expanses of territory. The strategic position Russia has is unenviable, but with large amounts of land to trade for time Russia is virtually unconquerable. This position has seen over a century of steady expansion in all directions. The French Revolution has changed that. There is a new expansionist power on the block that is as hungry as we are and with a vast army at its disposal. Do we oppose or take advantage of the upsetting of the traditional balance of power to achieve our goals?;;Seit der Herrschaft Peters des Großen hat Russland eine Wandlung, von einem rückständigen Agrarstaat an den Rändern Europas zu einer Großmacht mit riesigem Territorium, durchlaufen. Die strategische Position Russlands ist alles andere als erstrebenswert, aber die enorme Weite des Landes lässt alle Eroberungspläne aussichtslos erscheinen. Mehr als ein Jahrhundert lang konnte sich das Land ungebremst ausdehnen. Durch die Französische Revolution hat sich dies geändert. Ein neuer Herrscher ist auf der Bildfläche erschienen, der ebenso expansionshungrig wie wir selbst ist und eine gewaltige Armee zur Verfügung stehen hat.  Werden wir uns der neuen Macht entgegenstellen, oder sollen wir uns die Erschütterung des traditionellen Machtgefüges zu Nutze machen, um unsere eigenen Ziele zu erreichen? ;;;;;;;;;;;x
@@ -1199,7 +1199,7 @@ PRU_SHORT;Prussia;Prusse;Preußen;;Prusia;;;;;;;;;x
 PRU_ADJ;Prussian;prussien;preußisch;;prusiano;;;;;;;;;x
 PRU_TXT;Prussia is in a curious position. The status quo does not suit Prussia, for too long we have played second fiddle to Austria in German affairs and even our gain of Silesia has not tempered Austria's arrogance. We must be free of Austria, but to merely replace her domination with that of France is no better outcome. This is going to take cunning diplomacy and masterful military timing to prosper, but prosper Prussia shall.;;Preußen befindet sich in einer außergewöhnlichen Position. Der Status Quo behagt dem Königreich Preußen nicht. In deutschen Angelegenheiten standen wir zu lange schon im Schatten Österreichs und selbst unser Gewinn von Schlesien konnte die österreichische Arroganz nicht dämpfen. Wir müssen uns von Österreich befreien, doch deren Herrschaft lediglich gegen die von Frankreich auszutauschen, ist kein zufriedenstellendes Ergebnis. Dies bedarf diplomatischer Raffinesse und meisterlicher, militärischer Kompetenz, um zu wachsen, doch genau dies soll Preußen tun.;;;;;;;;;;;x
 PRU_POP;Prussians;Prussiens;Preussen;;prusianos;;;;;;;;;x
-TUR;The Ottomans;;Die Osmanen;;;;;;;;;;;x
+TUR;Ottoman Empire;;Die Osmanen;;;;;;;;;;;x
 TUR_SHORT;The Ottomans;;Die Osmanen;;;;;;;;;;;x
 TUR_ADJ;Ottoman;ottoman;osmanisch;;turco;;;;;;;;;x
 TUR_TXT;Since the reign of Mehmed IV, the story of the Ottoman Turks has been one of decline. Our enemies to the north are too powerful and we have not been given enough breathing space to rebuild. Now the turmoil unleashed by the French Revolution has our traditional enemies eyes' firmly focused elsewhere. How will the empire profit from this and where should we strike first?;;Seit der Herrschaft Mehmed IV. geht es mit dem Osmanischen Reich bergab. Unsere Feinde im Norden sind zu mächtig, und wir hatten keine Zeit, unser Land wieder aufzubauen. Nun haben die Wirren der Französischen Revolution dazu geführt, dass unsere üblichen Feinde ihre Aufmerksamkeit auf andere Schauplätze richten. Wie wird das Reich davon profitieren und vor allem: Wo sollen wir zuerst zuschlagen?;;;;;;;;;;;x
@@ -1247,14 +1247,14 @@ HES_POP;Hessians;Hessois;Hessen;;hesianos;;;;;;;;;x
 KOI;Italy;;Italien;;;;;;;;;;;x
 KOI_SHORT;Italy;;Italien;;;;;;;;;;;x
 KOI_ADJ;Italian;italien;italienisch;;italiano;;;;;;;;;x
-KOI_TXT;For too long Italy has been divided and at the mercy of the foreign powers. Now the Great Napoleon has taken up the Iron Crown of Lombardy and our a new era dawns for Italian patriots everywhere. Victory for Napoleon will see a new Italy, a united Italy, we will follow Napoleon till the ends of the earth in the name of this dream.;;Zu lange schon ist das geteilte Italien den Launen fremder Mächte ausgeliefert. Nun hat Napoleon die langobardische Eisenkroneaufgesetzt und eine neue Ära ist für alle italienischen Patrioten ist gekommen. Napoleons Sieg wird die Auferstehung eines neuen und geeinten Italiens zur Folge haben und deshalb werden wir Napoleon folgen, um an seiner Seite unseren Traum zu verwirklichen.;;;;;;;;;;;x
+KOI_TXT;For too long Italy has been divided and at the mercy of the foreign powers. Now the Great Napoleon has taken up the Iron Crown of Lombardy and a new era dawns for Italian patriots everywhere. Victory for Napoleon will see a new Italy, a united Italy, we will follow Napoleon till the ends of the earth in the name of this dream.;;Zu lange schon ist das geteilte Italien den Launen fremder Mächte ausgeliefert. Nun hat Napoleon die langobardische Eisenkroneaufgesetzt und eine neue Ära ist für alle italienischen Patrioten ist gekommen. Napoleons Sieg wird die Auferstehung eines neuen und geeinten Italiens zur Folge haben und deshalb werden wir Napoleon folgen, um an seiner Seite unseren Traum zu verwirklichen.;;;;;;;;;;;x
 KOI_POP;Italians;Italiens;Italiener;;italianos;;;;;;;;;x
 MEK;Mecklenburg;Mecklenbourg;Mecklenburg;;Mecklenburgo;;;;;;;;;x
 MEK_SHORT;Mecklenburg;Mecklenbourg;Mecklenburg;;Mecklenburgo;;;;;;;;;x
 MEK_ADJ;Mecklenburgian;mecklenbourgeois;mecklenburgerisch;;Mecklenburgués;;;;;;;;;x
 MEK_TXT;As the revolutionary wars shook Europe, Mecklenburg has done the sensible thing and remained neutral. However the wars seem to grow in scope and threaten to suck in yet more countries, for how much longer can we remain so? Perhaps no matter what we do the flames of conflict will engulf our country.;;Als die Revolutionskriege Europa erschütterten, hat Mecklenburg das Vernünftigste getan und seine Neutralität erklärt. Doch die Kriege scheinen immer weiter um sich zu greifen und drohen, weitere Länder hineinzuziehen. Wie lange vermag uns unsere Neutralität noch zu schützen? Es steht zu befürchten, dass auch wir von den Wirren des Krieges erfasst werden, ganz gleich, welche Entscheidung wir auch fällen.;;;;;;;;;;;x
 MEK_POP;Mecklenburgians;Mecklenbourgeois;Mecklenburger;;Mecklenburgueses;;;;;;;;;x
-NDS;Sicily;;Sizilien;;;;;;;;;;;x
+NDS;Two Sicilies;;Sizilien;;;;;;;;;;;x
 NDS_SHORT;Sicily;;Sizilien;;;;;;;;;;;x
 NDS_ADJ;Sicilian;sicilien;sizilianisch;;siciliano;;;;;;;;;x
 NDS_TXT;The Kingdom of Sicily was captured by the house of Bourbon in the year of 1735. The King of Naples was reported to be disappointed when his sister-in-law Marie Antoinette was executed and joined in the wars against revolutionary France and was rewarded by French occupation. The British drove the French out but Northern Italy is now under the thumb of French. The situation is grim, the French are definitely not our friends but we aren't exactly in a good position to oppose them.;;Das Königreich Sizilien fiel im Jahre 1735 unter die Herrschaft der Bourbonen. Der König von Neapel trat nach der Hinrichtung seiner Schwägerin Marie Antoinette an die Seite der Gegner der Revolution, doch in der Folge geriet sein Land unter französische Besatzung. Zwar gelang es den Briten, die Franzosen wieder zu vertreiben, doch Norditalien befindet sich fest in der Hand Frankreichs. Die Lage ist ernst, denn die Franzosen sind auf garkeinen Fall unsere Freunde, doch wir befinden uns auch nicht gerade in einer Position die es uns erlaubt, ihnen entgegen zu treten.;;;;;;;;;;;x
@@ -7774,7 +7774,8 @@ PROV84;Chatham;;Chatham;;;;;;;;;;;x
 PROV85;Worthing;;Worthing;;;;;;;;;;;x
 PROV86;Dover;;Dover;;;;;;;;;;;x
 PROV86_CITY;Dover;;Dover;;;;;;;;;;;x
-PROV87;Lagos;;Lagos;;;;;;;;;;;x
+PROV87;Algarve;;Algarve;;;;;;;;;;;x
+PROV87_CITY;Faro;;Faro;;;;;;;;;;;x
 PROV88;Beja ;;Beja ;;;;;;;;;;;x
 PROV89;Évora;;Évora;;;;;;;;;;;x
 PROV90;Setúbal;;Setúbal;;;;;;;;;;;x
@@ -7802,7 +7803,7 @@ PROV107;Oviedo;;Oviedo;;;;;;;;;;;x
 PROV108;Gijón;;Gijón;;;;;;;;;;;x
 PROV109;Reinosa;;Reinosa;;;;;;;;;;;x
 PROV110;Astorga;;Astorga;;;;;;;;;;;x
-PROV111;Zamora;;Zamora;;;;;;;;;;;x
+PROV111;Bragança;;Bragança;;;;;;;;;;;x
 PROV112;León;;León;;;;;;;;;;;x
 PROV112_CITY;León;;León;;;;;;;;;;;x
 PROV113;Almeida;;Almeida;;;;;;;;;;;x
@@ -7853,7 +7854,7 @@ PROV144;Hellín;;Hellín;;;;;;;;;;;x
 PROV145;Andújar;;Andújar;;;;;;;;;;;x
 PROV146;Huelva;;Huelva;;;;;;;;;;;x
 PROV147;Valverde del Camino;;Valverde del Camino;;;;;;;;;;;x
-PROV148;Zafra;;Zafra;;;;;;;;;;;x
+PROV148;Moura;;Moura;;;;;;;;;;;x
 PROV149;Olivenza;;Olivenza;;;;;;;;;;;x
 PROV150;Badajoz;;Badajoz;;;;;;;;;;;x
 PROV150_CITY;Badajoz;;Badajoz;;;;;;;;;;;x
@@ -8125,6 +8126,7 @@ PROV345;Parma;;Parma;;;;;;;;;;;x
 PROV345_CITY;Parma;;Parma;;;;;;;;;;;x
 PROV346;Bergamo;;Bergamo;;;;;;;;;;;x
 PROV347;Modena;;Modena;;;;;;;;;;;x
+PROV347_CITY;Modena;;Modena;;;;;;;;;;;x
 PROV348;Verona;;Verona;;;;;;;;;;;x
 PROV348_CITY;Verona;;Verona;;;;;;;;;;;x
 PROV349;Mantua;;Mantua;;;;;;;;;;;x
@@ -8152,6 +8154,7 @@ PROV362_CITY;Livorno;;Livorno;;;;;;;;;;;x
 PROV363;Elba;;Elba;;;;;;;;;;;x
 PROV364;Piombino;;Piombino;;;;;;;;;;;x
 PROV365;Sienna;;Sienna;;;;;;;;;;;x
+PROV365_CITY;Sienna;;Sienna;;;;;;;;;;;x
 PROV366;Perugia;;Perugia;;;;;;;;;;;x
 PROV367;Viterbo;;Viterbo;;;;;;;;;;;x
 PROV368;Terni;;Terni;;;;;;;;;;;x
@@ -8177,6 +8180,7 @@ PROV383;Crotone;;Crotone;;;;;;;;;;;x
 PROV384;Reggio di Calabria;;Reggio di Calabria;;;;;;;;;;;x
 PROV385;Olbia;;Olbia;;;;;;;;;;;x
 PROV386;Sassari;;Sassari;;;;;;;;;;;x
+PROV386_CITY;Sassari;;Sassari;;;;;;;;;;;x
 PROV387;Cagliari;;Cagliari;;;;;;;;;;;x
 PROV387_CITY;Cagliari;;Cagliari;;;;;;;;;;;x
 PROV388;Trapani;;Trapani;;;;;;;;;;;x
@@ -8197,6 +8201,7 @@ PROV399;Zurich;;Zürich;;;;;;;;;;;x
 PROV399_CITY;Zurich;;Zürich;;;;;;;;;;;x
 PROV400;Luzern;;Luzern;;;;;;;;;;;x
 PROV401;Bern;;Bern;;;;;;;;;;;x
+PROV401_CITY;Bern;;Bern;;;;;;;;;;;x
 PROV402;Montreux;;Montreux;;;;;;;;;;;x
 PROV403;Brigue;;Brigue;;;;;;;;;;;x
 PROV403_CITY;Brigue;;Brigue;;;;;;;;;;;x
@@ -8313,8 +8318,8 @@ PROV482;Nauheim;;Nauheim;;;;;;;;;;;x
 PROV483;Hanau;;Hanau;;;;;;;;;;;x
 PROV484;Fulda;;Fulda;;;;;;;;;;;x
 PROV485;Aschaffenburg;;Aschaffenburg;;;;;;;;;;;x
-PROV486;Frankfurt;;Frankfurt;;;;;;;;;;;x
-PROV486_CITY;Frankfurt;;Frankfurt;;;;;;;;;;;x
+PROV486;Frankfurt am Main;;Frankfurt am Main;;;;;;;;;;;x
+PROV486_CITY;Frankfurt am Main;;Frankfurt am Main;;;;;;;;;;;x
 PROV487;Mannheim;;Mannheim;;;;;;;;;;;x
 PROV488;Karlsruhe;;Karlsruhe;;;;;;;;;;;x
 PROV488_CITY;Karlsruhe;;Karlsruhe;;;;;;;;;;;x
@@ -8439,6 +8444,7 @@ PROV578;Neustettin;;Neustettin;;;;;;;;;;;x
 PROV579;Schneidemuhl;;Schneidemühl;;;;;;;;;;;x
 PROV580;Kreiss;;Kreiss;;;;;;;;;;;x
 PROV581;Landsberg;;Landsberg;;;;;;;;;;;x
+PROV581_CITY;Landsberg an der Warthe;;Landsberg an der Warthe;;;;;;;;;;;x
 PROV582;Grünwald;;Grünwald;;;;;;;;;;;x
 PROV583;Schwiebus;;Schwiebus;;;;;;;;;;;x
 PROV584;Mezeritz;;Mezeritz;;;;;;;;;;;x
@@ -8604,6 +8610,7 @@ PROV710;Bielsko;;Bielitz;;;;;;;;;;;x
 PROV711;Targ;;Targ;;;;;;;;;;;x
 PROV712;Zakopane;;Zakopane;;;;;;;;;;;x
 PROV713;Trencin;;Trencín;;;;;;;;;;;x
+PROV713_CITY;Trencin;;Trencin;;;;;;;;;;;x
 PROV714;Jassel;;Jassel;;;;;;;;;;;x
 PROV715;Deutschendorf;;Deutschendorf;;;;;;;;;;;x
 PROV715_CITY;Deutschendorf;;Deutschendorf;;;;;;;;;;;x
@@ -8937,6 +8944,7 @@ PROV988;Drobeta;;Drobeta;;;;;;;;;;;x
 PROV989;Turnu;;Turnu;;;;;;;;;;;x
 PROV990;Calafat;;Calafat;;;;;;;;;;;x
 PROV991;Craiova;;Krajowa;;;;;;;;;;;x
+PROV991_CITY;Craiova;;Craiova;;;;;;;;;;;x
 PROV992;Hermannstadt;;Hermanstadt;;;;;;;;;;;x
 PROV992_CITY;Hermannstadt;;Hermanstadt;;;;;;;;;;;x
 PROV993;Rimnicu;;Rimnicu;;;;;;;;;;;x
@@ -8944,6 +8952,7 @@ PROV994;Pitesti;;Pitesti;;;;;;;;;;;x
 PROV995;Corabia;;Corabia;;;;;;;;;;;x
 PROV996;Slatina;;Slatina;;;;;;;;;;;x
 PROV997;Tirgoviste;;Târgoviste;;;;;;;;;;;x
+PROV997_CITY;Tirgoviste;;Tirgoviste;;;;;;;;;;;x
 PROV998;Buzau;;Busäu;;;;;;;;;;;x
 PROV999;Ploeisti;;Ploiesti;;;;;;;;;;;x
 PROV1000;Ialomita;;Ialomita;;;;;;;;;;;x
@@ -9051,6 +9060,7 @@ PROV1083;Corfu;;Korfu;;;;;;;;;;;x
 PROV1083_CITY;Corfu;;Korfu;;;;;;;;;;;x
 PROV1084;Zante;;Zakynthos;;;;;;;;;;;x
 PROV1085;Uskudar;;Chrysopolis;;;;;;;;;;;x
+PROV1085_CITY;Uskudar;;Uskudar;;;;;;;;;;;x
 PROV1086;Izmit;;Izmit;;;;;;;;;;;x
 PROV1086_CITY;Izmit;;Izmit;;;;;;;;;;;x
 PROV1087;Bursa;;Bursa;;;;;;;;;;;x
@@ -9308,6 +9318,7 @@ PROV1308_CITY;Gazze;;Gaza;;;;;;;;;;;x
 PROV1309;Beytüllahim;;Bethlehem;;;;;;;;;;;x
 PROV1310;El Karak;;al-Karak;;;;;;;;;;;x
 PROV1311;El Arish;;al-Arisch;;;;;;;;;;;x
+PROV1311_CITY;El Arish;;Al Arisch;;;;;;;;;;;x
 PROV1312;Beerseba;;Beerscheba;;;;;;;;;;;x
 PROV1313;Maan;;Maan;;;;;;;;;;;x
 PROV1314;Khamsa;;Khamsa;;;;;;;;;;;x
@@ -10105,6 +10116,7 @@ PROV2006;Youssoufia;;Youssoufia;;;;;;;;;;;x
 PROV2007;Marrakech;;Marrakesch;;;;;;;;;;;x
 PROV2007_CITY;Marrakech;;Marrakesch;;;;;;;;;;;x
 PROV2008;Rabat;;Rabat;;;;;;;;;;;x
+PROV2008_CITY;Rabat;;Rabat;;;;;;;;;;;x
 PROV2009;Dar El Beida;;Dar El Beïda;;;;;;;;;;;x
 PROV2010;Settat;;Settat;;;;;;;;;;;x
 PROV2011;Beni Mellal;;Beni-Mellal;;;;;;;;;;;x
@@ -10158,6 +10170,7 @@ PROV2049;Souk Ahras;;Souk Ahras;;;;;;;;;;;x
 PROV2050;Ain Beda;;Ain Beida;;;;;;;;;;;x
 PROV2051;Tabarka;;Tabarka;;;;;;;;;;;x
 PROV2052;Bizerte;;Bizerta;;;;;;;;;;;x
+PROV2052_CITY;Bizerte;;Bizerta;;;;;;;;;;;x
 PROV2053;Tunis;;Tunis;;;;;;;;;;;x
 PROV2053_CITY;Tunis;;Tunis;;;;;;;;;;;x
 PROV2054;Hammamet;;Hammamet;;;;;;;;;;;x
@@ -10166,6 +10179,7 @@ PROV2056;Maktar;;Maktar;;;;;;;;;;;x
 PROV2057;al-Qayrawan;;Qairawan;;;;;;;;;;;x
 PROV2057_CITY;al-Qayrawan;;Qairawan;;;;;;;;;;;x
 PROV2058;Sfax;;Sfax;;;;;;;;;;;x
+PROV2058_CITY;Sfax;;Sfax;;;;;;;;;;;x
 PROV2059;Kasserine;;Kasserine;;;;;;;;;;;x
 PROV2060;Mahres;;Mahrès;;;;;;;;;;;x
 PROV2061;Gafsa;;Gafsa;;;;;;;;;;;x
@@ -10183,9 +10197,9 @@ PROV2071;Al Khums;;Al-Chums;;;;;;;;;;;x
 PROV2072;Bani Walid;;Bani Walid;;;;;;;;;;;x
 PROV2073;Misratah;;Misrata;;;;;;;;;;;x
 PROV2073_CITY;Misratah;;Misrata;;;;;;;;;;;x
-PROV2074;Surt;;Surt;;;;;;;;;;;x
-PROV2075;al Sidr;;Al Sidr;;;;;;;;;;;x
-PROV2075_CITY;al Sidr;;Al Sidr;;;;;;;;;;;x
+PROV2074;al Sidr;;Al Sidr;;;;;;;;;;;x
+PROV2075;Sirte;;Surt;;;;;;;;;;;x
+PROV2075_CITY;Sirte;;Surt;;;;;;;;;;;x
 PROV2076;Brega;;Brega;;;;;;;;;;;x
 PROV2077;Sultan;;Sultan;;;;;;;;;;;x
 PROV2078;Carcora;;Carcora;;;;;;;;;;;x
@@ -10319,8 +10333,10 @@ PROV2188;Ras Ghareb;;Ras Ghareb;;;;;;;;;;;x
 PROV2189;Qusayr;;Qusayr;;;;;;;;;;;x
 PROV2190;Marsa Alam;;Marsa Alam;;;;;;;;;;;x
 PROV2191;Minya;;Minya;;;;;;;;;;;x
+PROV2191_CITY;Minya;;Minya;;;;;;;;;;;x
 PROV2192;Suhaj;;Sohag;;;;;;;;;;;x
 PROV2193;Qina;;Qina;;;;;;;;;;;x
+PROV2193_CITY;Qina;;Qina;;;;;;;;;;;x
 PROV2194;Idfu;;Edfu;;;;;;;;;;;x
 PROV2195;Derbent;;Derbent;;;;;;;;;;;x
 PROV2196;Qabala;;Qabala;;;;;;;;;;;x

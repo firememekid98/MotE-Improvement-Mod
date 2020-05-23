@@ -1,0 +1,25 @@
+#1085 - Uskudar
+
+owner = TUR
+
+controller = TUR
+
+add_core = TUR
+
+transport3 = yes
+
+development2 = yes
+
+port_income = 0
+
+victory_value = 0
+
+base_tax = 1.0
+
+manpower = 15
+
+# = 16
+
+culture = turkish
+
+city = yes

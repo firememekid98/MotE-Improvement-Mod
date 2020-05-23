@@ -96,15 +96,19 @@ province_group={
 }
 province_group={
 	city_province=91
-	province_list={ 89 87 }
+	province_list={ 89 }
+}
+province_group={
+	city_province=87
+	province_list={ 88 148 }
 }
 province_group={
 	city_province=92
-	province_list={ 90 93 88 }
+	province_list={ 90 93 }
 }
 province_group={
 	city_province=98
-	province_list={ 96 99 100 }
+	province_list={ 96 99 100 111 }
 }
 province_group={
 	city_province=103
@@ -120,7 +124,7 @@ province_group={
 }
 province_group={
 	city_province=114
-	province_list={ 111 155 106 }
+	province_list={ 155 106 }
 }
 province_group={
 	city_province=115
@@ -167,7 +171,7 @@ province_group={
 }
 province_group={
 	city_province=150
-	province_list={ 148 149 153 154 }
+	province_list={ 149 153 154 }
 }
 province_group={
 	city_province=152
@@ -442,7 +446,9 @@ province_group={
 }
 province_group={
 	city_province=340
-	province_list={ 347 }
+}
+province_group={
+	city_province=347
 }
 province_group={
 	city_province=344
@@ -485,7 +491,10 @@ province_group={
 }
 province_group={
 	city_province=362
-	province_list={ 364 365 }
+	province_list={ 364 }
+}
+province_group={
+	city_province=365
 }
 province_group={
 	city_province=370
@@ -505,7 +514,10 @@ province_group={
 }
 province_group={
 	city_province=387
-	province_list={ 385 386 }
+	province_list={ 385 }
+}
+province_group={
+	city_province=386
 }
 province_group={
 	city_province=389
@@ -524,7 +536,11 @@ province_group={
 }
 province_group={
 	city_province=403
-	province_list={ 402 404 395 401 }
+	province_list={ 404 395 401 }
+}
+province_group={
+	city_province=401
+	province_list={ 402 }
 }
 province_group={
 	city_province=409
@@ -750,7 +766,11 @@ province_group={
 }
 province_group={
 	city_province=573
-	province_list={ 563 581 582 }
+	province_list={ 563 }
+}
+province_group={
+	city_province=581
+	province_list={ 582 }
 }
 province_group={
 	city_province=574
@@ -874,7 +894,11 @@ province_group={
 }
 province_group={
 	city_province=691
-	province_list={ 690 692 713 717 720 }
+	province_list={ 690 692 720 }
+}
+province_group={
+	city_province=713
+	province_list={ 717 }
 }
 province_group={
 	city_province=695
@@ -1108,11 +1132,19 @@ province_group={
 }
 province_group={
 	city_province=992
-	province_list={ 986 987 991 993 985 988 989 990 }
+	province_list={ 986 987 993 985 988 }
+}
+province_group={
+	city_province=991
+	province_list={ 990 989 }
+}
+province_group={
+	city_province=997
+	province_list={ 996 }
 }
 province_group={
 	city_province=1001
-	province_list={ 996 999 1000 1002 1003 994 995 997 998 1015 1016 }
+	province_list={ 999 1000 1002 1003 994 995 998 1015 1016 }
 }
 province_group={
 	city_province=1006
@@ -1187,7 +1219,10 @@ province_group={
 }
 province_group={
 	city_province=1086
-	province_list={ 1085 1113 1114 1115 1116 1121 1117 }
+	province_list={ 1113 1114 1115 1116 1121 1117 }
+}
+province_group={
+	city_province=1085
 }
 province_group={
 	city_province=1087
@@ -1320,11 +1355,23 @@ province_group={
 }
 province_group={
 	city_province=1334
-	province_list={ 1327 1330 1314 1329 2191 1315 1316 1317 2188 2189 2192 1318 2185 2186 2190 2193 1319 2184 2194 2187 }
+	province_list={ 1327 1330 1329 1315 1316 1317 2189 1318 2185 2186 2190 1319 2184 2187 2188 }
 }
 province_group={
 	city_province=1337
-	province_list={ 1311 1328 1336 1338 }
+	province_list={ 1328 1336 1338 }
+}
+province_group={
+	city_province=2191
+	province_list={ 2192 }
+}
+province_group={
+	city_province=2193
+	province_list={ 2194 }
+}
+province_group={
+	city_province=1311
+	province_list={ 1314 }
 }
 province_group={
 	city_province=1339
@@ -1716,7 +1763,10 @@ province_group={
 }
 province_group={
 	city_province=2015
-	province_list={ 2008 2012 2013 2014 }
+	province_list={ 2012 2013 2014 }
+}
+province_group={
+	city_province=2008
 }
 province_group={
 	city_province=2016
@@ -1749,19 +1799,35 @@ province_group={
 }
 province_group={
 	city_province=2053
-	province_list={ 2051 2052 2054 2055 }
+	province_list={ 2054 2055 2056 }
+}
+province_group={
+	city_province=2052
+	province_list={ 2051 }
 }
 province_group={
 	city_province=2057
-	province_list={ 2056 2058 2059 2060 2061 2062 2063 2064 2065 }
+	province_list={ 2059 2060 2061 2062 2063 2064 }
+}
+province_group={
+	city_province=2058
+	province_list={ 2065 }
 }
 province_group={
 	city_province=2070
-	province_list={ 2066 2069 2071 2072 2067 2068 2073 2074 }
+	province_list={ 2066 2069 2071 2072 2067 2068 }
+}
+province_group={
+	city_province=2073
+	province_list={ 2074 }
+}
+province_group={
+	city_province=2075
+	province_list={ 2076 }
 }
 province_group={
 	city_province=2079
-	province_list={ 2078 2081 2077 2083 2076 2075 }
+	province_list={ 2078 2081 2077 2083 }
 }
 province_group={
 	city_province=2085

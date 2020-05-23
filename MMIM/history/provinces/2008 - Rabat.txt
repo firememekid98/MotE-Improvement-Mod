@@ -1,0 +1,25 @@
+#2008 - Rabat
+
+owner = MAR
+
+controller = MAR
+
+add_core = MAR
+
+transport2 = yes
+
+development2 = yes
+
+port_income = 0
+
+victory_value = 0
+
+base_tax = 1.0
+
+manpower = 10
+
+# = 25
+
+culture = berber
+
+city = yes

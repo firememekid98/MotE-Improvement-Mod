@@ -1,0 +1,48 @@
+#Country Name: Please see filename.
+
+primary_culture = berber
+
+add_accepted_culture = maghreb_arabic
+
+add_accepted_culture = turkish
+
+capital = 2053 #Tunis
+
+government = feudal_monarchy
+
+oob = "TUN_1805.txt"
+
+1805.1.1 = {
+
+	monarch = {
+		name = "Hammouda"
+		adm = "4"
+		dip = "3"
+		mil = "4"
+		monarch_picture = "TUN_Hammuda_Bey"
+	}
+}
+
+1814.9.15 = {
+
+	monarch = {
+		name = "Othman"
+		adm = "4"
+		dip = "3"
+		mil = "4"
+		monarch_picture = "TRI_Mahmoud_Bey"
+	}
+}
+
+1814.12.21 = {
+
+	monarch = {
+		name = "Mahmud"
+		adm = "4"
+		dip = "3"
+		mil = "4"
+		monarch_picture = "TUN_Hammuda_Bey"
+	}
+}
+
+

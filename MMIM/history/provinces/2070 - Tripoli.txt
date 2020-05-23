@@ -1,0 +1,31 @@
+#2070 - Tripoli
+
+capital = TRI
+
+owner = TRI
+
+controller = TRI
+
+add_core = TRI
+
+transport1 = yes
+
+development1 = yes
+
+port_income = 4
+
+victory_value = 0
+
+base_tax = 3
+
+manpower = 20
+
+# = 21
+
+culture = berber
+
+city = yes
+
+1805.1.1 = { minorport = yes }
+
+1805.1.1 = { depot1 = yes }

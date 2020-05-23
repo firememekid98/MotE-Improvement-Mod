@@ -1,0 +1,33 @@
+#2053 - Tunis
+
+capital = TUN
+
+owner = TUN
+
+controller = TUN
+
+add_core = ALG
+
+add_core = TUN
+
+transport2 = yes
+
+development2 = yes
+
+port_income = 8
+
+victory_value = 0
+
+base_tax = 4
+
+manpower = 30
+
+# = 25
+
+culture = berber
+
+city = yes
+
+1805.1.1 = { minorport = yes }
+
+1805.1.1 = { depot1 = yes }

@@ -1,0 +1,24 @@
+#2191 - Minya
+
+owner = EGY
+
+controller = EGY
+
+add_core = EGY
+
+#transport_level = 0
+
+
+port_income = 1
+
+victory_value = 0
+
+base_tax = 0.5
+
+manpower = 8
+
+# = 21
+
+culture = al_suryah_arabic
+
+city = yes

@@ -1,0 +1,26 @@
+#Country Name: Please see filename.
+
+primary_culture = berber
+
+add_accepted_culture = maghreb_arabic
+
+add_accepted_culture = turkish
+
+capital = 2070 #Tripoli
+
+government = feudal_monarchy
+
+oob = "TRI_1805.txt"
+
+1795.6.11 = {
+
+	monarch = {
+		name = "Yusuf Karamanli"
+		adm = "4"
+		dip = "5"
+		mil = "5"
+		monarch_picture = "TRI_Mahmoud_Bey"
+	}
+}
+
+

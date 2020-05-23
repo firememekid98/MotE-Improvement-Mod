@@ -1,0 +1,28 @@
+#347 - Modena
+
+owner = KOI
+
+controller = KOI
+
+add_core = KOI
+
+transport3 = yes
+
+development3 = yes
+
+port_income = 0
+
+victory_value = 0
+
+base_tax = 1.4
+
+manpower = 18
+
+# = 7
+
+culture = lombardian
+
+1805.1.1 = { depot1 = yes }
+
+city = yes
+

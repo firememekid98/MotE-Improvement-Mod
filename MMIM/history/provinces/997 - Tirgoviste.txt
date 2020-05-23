@@ -1,0 +1,25 @@
+#997 - Tirgoviste
+
+owner = WAL
+
+controller = WAL
+
+add_core = WAL
+
+transport1 = yes
+
+development1 = yes
+
+port_income = 0
+
+victory_value = 0
+
+base_tax = 0.3
+
+manpower = 5
+
+# = 10
+
+culture = romanian
+
+city = yes
