@@ -1,3 +1,29 @@
+MMIM changelog v1.2
+
+new cities added
+	- modena, sienna, bern, faro, landsberg an der warthe, trencin, craiova, tirgoviste, uskudar, minya, qina, el arish, sirt, bizerte, sfax, misratah, sassari, rabat
+
+bugfixes
+	- fixed countries that had wrong culture as primary
+		- fixed portugal country culture
+		- fixed tunisia country culture
+		- fixed tripoltania country culture
+	- fixed several cities that had 0 manpower
+	
+map changes
+	- fixed portugal borders
+
+graphical
+	- fixed portugal flag
+	- fixed french flag
+	- fixed morocco flag
+	
+other
+	- fixed some typos
+	- fixed country names for uk, french empire, two sicilies, russian empire, ottoman empire
+
+
+--
 MMIM changelog v1.1
 
 core gameplay changes
@@ -27,28 +53,3 @@ government changes
 
 other
 	- fixed various typos
-
-
-MMIM changelog v1.2
-
-new cities added
-	- modena, sienna, bern, faro, landsberg an der warthe, trencin, craiova, tirgoviste, uskudar, minya, qina, el arish, sirt, bizerte, sfax, misratah, sassari, rabat
-
-bugfixes
-	- fixed countries that had wrong culture as primary
-		- fixed portugal country culture
-		- fixed tunisia country culture
-		- fixed tripoltania country culture
-	- fixed several cities that had 0 manpower
-	
-map changes
-	- fixed portugal borders
-
-graphical
-	- fixed portugal flag
-	- fixed french flag
-	- fixed morocco flag
-	
-other
-	- fixed some typos
-	- fixed country names for uk, french empire, two sicilies, russian empire, ottoman empire
