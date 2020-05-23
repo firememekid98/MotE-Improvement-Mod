@@ -1,0 +1,25 @@
+#713 - Trencin
+
+owner = AUS
+
+controller = AUS
+
+add_core = AUS
+
+transport2 = yes
+
+development2 = yes
+
+port_income = 0
+
+victory_value = 0
+
+base_tax = 0.2
+
+manpower = 3
+
+# = 10
+
+culture = slovak
+
+city = yes

@@ -1,0 +1,28 @@
+#98 - Oporto
+
+owner = POR
+
+controller = POR
+
+add_core = POR
+
+transport3 = yes
+
+development2 = yes
+
+port_income = 26
+
+victory_value = 0
+
+base_tax = 6.0
+
+manpower = 45
+
+# = 3
+
+culture = portuguese
+
+city = yes
+
+1805.1.1 = { majorport = yes }
+

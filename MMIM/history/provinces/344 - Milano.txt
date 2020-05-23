@@ -1,0 +1,31 @@
+#344 - Milano
+
+capital = KOI
+
+owner = KOI
+
+controller = KOI
+
+add_core = KOI
+
+transport3 = yes
+
+development3 = yes
+
+port_income = 0
+
+victory_value = 1
+
+base_tax = 8.0
+
+manpower = 75
+
+# = 7
+
+culture = lombardian
+
+city = yes
+
+1805.1.1 = { fort1 = yes }
+
+1805.1.1 = { depot1 = yes }

@@ -1,0 +1,34 @@
+#92 - Lisboa
+
+capital = POR
+
+owner = POR
+
+controller = POR
+
+add_core = POR
+
+transport3 = yes
+
+development3 = yes
+
+port_income = 30
+
+victory_value = 1
+
+base_tax = 7.0
+
+manpower = 70
+
+# = 3
+
+culture = portuguese
+
+city = yes
+
+1805.1.1 = { fort1 = yes }
+
+1805.1.1 = { majorport = yes }
+
+1805.1.1 = { depot1 = yes }
+

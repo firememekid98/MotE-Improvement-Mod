@@ -1,0 +1,25 @@
+#581 - Landsberg
+
+owner = PRU
+
+controller = PRU
+
+add_core = PRU
+
+transport3 = yes
+
+development2 = yes
+
+port_income = 0
+
+victory_value = 0
+
+base_tax = 0.5
+
+manpower = 6
+
+# = 9
+
+culture = prussian
+
+city = yes

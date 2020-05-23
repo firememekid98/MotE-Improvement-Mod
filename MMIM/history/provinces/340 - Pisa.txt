@@ -1,0 +1,28 @@
+#340 - Pisa
+
+owner = KOI
+
+controller = KOI
+
+add_core = KOI
+
+add_core = TOS
+
+transport2 = yes
+
+development2 = yes
+
+port_income = 5
+
+victory_value = 0
+
+base_tax = 1.0
+
+manpower = 10
+
+# = 7
+
+culture = tuscan
+
+city = yes
+

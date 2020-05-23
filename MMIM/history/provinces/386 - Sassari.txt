@@ -1,0 +1,25 @@
+#386 - Sassari
+
+owner = PIE
+
+controller = PIE
+
+add_core = PIE
+
+transport1 = yes
+
+development1 = yes
+
+port_income = 0
+
+victory_value = 0
+
+base_tax = 0.4
+
+manpower = 6
+
+# = 6
+
+culture = sardinian
+
+city = yes

@@ -1,0 +1,21 @@
+#111 - Zamora
+
+owner = POR
+
+controller = POR
+
+add_core = POR
+
+
+transport3 = yes
+
+development1 = yes
+
+port_income = 0
+
+victory_value = 0
+
+# = 3
+
+culture = portuguese
+

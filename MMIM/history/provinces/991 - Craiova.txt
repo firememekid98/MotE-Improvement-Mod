@@ -1,0 +1,25 @@
+#991 - Craiova
+
+owner = WAL
+
+controller = WAL
+
+add_core = WAL
+
+transport2 = yes
+
+development2 = yes
+
+port_income = 0
+
+victory_value = 0
+
+base_tax = 0.5
+
+manpower = 8
+
+# = 10
+
+culture = romanian
+
+city = yes

@@ -1,0 +1,25 @@
+#2073 - Misratah
+
+owner = TRI
+
+controller = TRI
+
+add_core = TRI
+
+transport1 = yes
+
+
+port_income = 2
+
+victory_value = 0
+
+base_tax = 0.3
+
+manpower = 5
+
+# = 21
+
+culture = berber
+
+city = yes
+

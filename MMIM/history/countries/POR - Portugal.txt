@@ -1,0 +1,24 @@
+#Country Name: Please see filename.
+
+primary_culture = portuguese
+
+capital = 92 #Lisboa
+
+government = absolute_monarchy
+
+oob = "POR_1805.txt"
+
+idea_points = 100
+
+prestige = 200
+
+1805.1.1 = {
+	monarch = {
+		name = "João VI Bragança"
+		adm = "4"
+		dip = "4"
+		mil = "3"
+		monarch_picture = "HES_LudwigX"
+	}
+}
+
