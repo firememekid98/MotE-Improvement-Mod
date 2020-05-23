@@ -35,9 +35,10 @@ new cities added
 	- modena, sienna, bern, faro, landsberg an der warthe, trencin, craiova, tirgoviste, uskudar, minya, qina, el arish, sirt, bizerte, sfax, misratah, sassari, rabat
 
 bugfixes
-	- fixed portugal culture
-	- fixed tunisia culture
-	- fixed tripoltania culture
+	- fixed countries that had wrong culture as primary
+		- fixed portugal country culture
+		- fixed tunisia country culture
+		- fixed tripoltania country culture
 	- fixed several cities that had 0 manpower
 	
 map changes
