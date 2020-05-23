@@ -1,4 +1,4 @@
-MIM changelog v1.1
+MMIM changelog v1.1
 
 core gameplay changes
 	- kill factor changed to 0.22, from 0.25
@@ -27,3 +27,18 @@ government changes
 
 other
 	- fixed various typos
+
+
+MMIM changelog v1.2
+
+new cities added
+	- modena, sienna, bern, faro, landsberg an der warthe, trencin, craiova, tirgoviste, uskudar, minya, qina, el arish, sirt, bizerte, sfax, misratah, sassari, rabat
+
+bugfixes
+	- fixed portugal culture
+	- fixed tunisia culture
+	- fixed tripoltania culture
+	- fixed several cities that had 0 manpower
+	
+map changes
+	- fixed portugal borders
